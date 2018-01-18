@@ -1,0 +1,10498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>U+1F600</key>
+		<string>😀</string>
+	</dict>
+	<dict>
+		<key>U+1F601</key>
+		<string>😁</string>
+	</dict>
+	<dict>
+		<key>U+1F602</key>
+		<string>😂</string>
+	</dict>
+	<dict>
+		<key>U+1F923</key>
+		<string>🤣</string>
+	</dict>
+	<dict>
+		<key>U+1F603</key>
+		<string>😃</string>
+	</dict>
+	<dict>
+		<key>U+1F604</key>
+		<string>😄</string>
+	</dict>
+	<dict>
+		<key>U+1F605</key>
+		<string>😅</string>
+	</dict>
+	<dict>
+		<key>U+1F606</key>
+		<string>😆</string>
+	</dict>
+	<dict>
+		<key>U+1F609</key>
+		<string>😉</string>
+	</dict>
+	<dict>
+		<key>U+1F60A</key>
+		<string>😊</string>
+	</dict>
+	<dict>
+		<key>U+1F60B</key>
+		<string>😋</string>
+	</dict>
+	<dict>
+		<key>U+1F60E</key>
+		<string>😎</string>
+	</dict>
+	<dict>
+		<key>U+1F60D</key>
+		<string>😍</string>
+	</dict>
+	<dict>
+		<key>U+1F618</key>
+		<string>😘</string>
+	</dict>
+	<dict>
+		<key>U+1F617</key>
+		<string>😗</string>
+	</dict>
+	<dict>
+		<key>U+1F619</key>
+		<string>😙</string>
+	</dict>
+	<dict>
+		<key>U+1F61A</key>
+		<string>😚</string>
+	</dict>
+	<dict>
+		<key>U+263A</key>
+		<string>☺</string>
+	</dict>
+	<dict>
+		<key>U+1F642</key>
+		<string>🙂</string>
+	</dict>
+	<dict>
+		<key>U+1F917</key>
+		<string>🤗</string>
+	</dict>
+	<dict>
+		<key>U+1F929</key>
+		<string>🤩</string>
+	</dict>
+	<dict>
+		<key>U+1F914</key>
+		<string>🤔</string>
+	</dict>
+	<dict>
+		<key>U+1F928</key>
+		<string>🤨</string>
+	</dict>
+	<dict>
+		<key>U+1F610</key>
+		<string>😐</string>
+	</dict>
+	<dict>
+		<key>U+1F611</key>
+		<string>😑</string>
+	</dict>
+	<dict>
+		<key>U+1F636</key>
+		<string>😶</string>
+	</dict>
+	<dict>
+		<key>U+1F644</key>
+		<string>🙄</string>
+	</dict>
+	<dict>
+		<key>U+1F60F</key>
+		<string>😏</string>
+	</dict>
+	<dict>
+		<key>U+1F623</key>
+		<string>😣</string>
+	</dict>
+	<dict>
+		<key>U+1F625</key>
+		<string>😥</string>
+	</dict>
+	<dict>
+		<key>U+1F62E</key>
+		<string>😮</string>
+	</dict>
+	<dict>
+		<key>U+1F910</key>
+		<string>🤐</string>
+	</dict>
+	<dict>
+		<key>U+1F62F</key>
+		<string>😯</string>
+	</dict>
+	<dict>
+		<key>U+1F62A</key>
+		<string>😪</string>
+	</dict>
+	<dict>
+		<key>U+1F62B</key>
+		<string>😫</string>
+	</dict>
+	<dict>
+		<key>U+1F634</key>
+		<string>😴</string>
+	</dict>
+	<dict>
+		<key>U+1F60C</key>
+		<string>😌</string>
+	</dict>
+	<dict>
+		<key>U+1F61B</key>
+		<string>😛</string>
+	</dict>
+	<dict>
+		<key>U+1F61C</key>
+		<string>😜</string>
+	</dict>
+	<dict>
+		<key>U+1F61D</key>
+		<string>😝</string>
+	</dict>
+	<dict>
+		<key>U+1F924</key>
+		<string>🤤</string>
+	</dict>
+	<dict>
+		<key>U+1F612</key>
+		<string>😒</string>
+	</dict>
+	<dict>
+		<key>U+1F613</key>
+		<string>😓</string>
+	</dict>
+	<dict>
+		<key>U+1F614</key>
+		<string>😔</string>
+	</dict>
+	<dict>
+		<key>U+1F615</key>
+		<string>😕</string>
+	</dict>
+	<dict>
+		<key>U+1F643</key>
+		<string>🙃</string>
+	</dict>
+	<dict>
+		<key>U+1F911</key>
+		<string>🤑</string>
+	</dict>
+	<dict>
+		<key>U+1F632</key>
+		<string>😲</string>
+	</dict>
+	<dict>
+		<key>U+2639</key>
+		<string>☹</string>
+	</dict>
+	<dict>
+		<key>U+1F641</key>
+		<string>🙁</string>
+	</dict>
+	<dict>
+		<key>U+1F616</key>
+		<string>😖</string>
+	</dict>
+	<dict>
+		<key>U+1F61E</key>
+		<string>😞</string>
+	</dict>
+	<dict>
+		<key>U+1F61F</key>
+		<string>😟</string>
+	</dict>
+	<dict>
+		<key>U+1F624</key>
+		<string>😤</string>
+	</dict>
+	<dict>
+		<key>U+1F622</key>
+		<string>😢</string>
+	</dict>
+	<dict>
+		<key>U+1F62D</key>
+		<string>😭</string>
+	</dict>
+	<dict>
+		<key>U+1F626</key>
+		<string>😦</string>
+	</dict>
+	<dict>
+		<key>U+1F627</key>
+		<string>😧</string>
+	</dict>
+	<dict>
+		<key>U+1F628</key>
+		<string>😨</string>
+	</dict>
+	<dict>
+		<key>U+1F629</key>
+		<string>😩</string>
+	</dict>
+	<dict>
+		<key>U+1F92F</key>
+		<string>🤯</string>
+	</dict>
+	<dict>
+		<key>U+1F62C</key>
+		<string>😬</string>
+	</dict>
+	<dict>
+		<key>U+1F630</key>
+		<string>😰</string>
+	</dict>
+	<dict>
+		<key>U+1F631</key>
+		<string>😱</string>
+	</dict>
+	<dict>
+		<key>U+1F633</key>
+		<string>😳</string>
+	</dict>
+	<dict>
+		<key>U+1F92A</key>
+		<string>🤪</string>
+	</dict>
+	<dict>
+		<key>U+1F635</key>
+		<string>😵</string>
+	</dict>
+	<dict>
+		<key>U+1F621</key>
+		<string>😡</string>
+	</dict>
+	<dict>
+		<key>U+1F620</key>
+		<string>😠</string>
+	</dict>
+	<dict>
+		<key>U+1F92C</key>
+		<string>🤬</string>
+	</dict>
+	<dict>
+		<key>U+1F637</key>
+		<string>😷</string>
+	</dict>
+	<dict>
+		<key>U+1F912</key>
+		<string>🤒</string>
+	</dict>
+	<dict>
+		<key>U+1F915</key>
+		<string>🤕</string>
+	</dict>
+	<dict>
+		<key>U+1F922</key>
+		<string>🤢</string>
+	</dict>
+	<dict>
+		<key>U+1F92E</key>
+		<string>🤮</string>
+	</dict>
+	<dict>
+		<key>U+1F927</key>
+		<string>🤧</string>
+	</dict>
+	<dict>
+		<key>U+1F607</key>
+		<string>😇</string>
+	</dict>
+	<dict>
+		<key>U+1F920</key>
+		<string>🤠</string>
+	</dict>
+	<dict>
+		<key>U+1F921</key>
+		<string>🤡</string>
+	</dict>
+	<dict>
+		<key>U+1F925</key>
+		<string>🤥</string>
+	</dict>
+	<dict>
+		<key>U+1F92B</key>
+		<string>🤫</string>
+	</dict>
+	<dict>
+		<key>U+1F92D</key>
+		<string>🤭</string>
+	</dict>
+	<dict>
+		<key>U+1F9D0</key>
+		<string>🧐</string>
+	</dict>
+	<dict>
+		<key>U+1F913</key>
+		<string>🤓</string>
+	</dict>
+	<dict>
+		<key>U+1F608</key>
+		<string>😈</string>
+	</dict>
+	<dict>
+		<key>U+1F47F</key>
+		<string>👿</string>
+	</dict>
+	<dict>
+		<key>U+1F479</key>
+		<string>👹</string>
+	</dict>
+	<dict>
+		<key>U+1F47A</key>
+		<string>👺</string>
+	</dict>
+	<dict>
+		<key>U+1F480</key>
+		<string>💀</string>
+	</dict>
+	<dict>
+		<key>U+2620</key>
+		<string>☠</string>
+	</dict>
+	<dict>
+		<key>U+1F47B</key>
+		<string>👻</string>
+	</dict>
+	<dict>
+		<key>U+1F47D</key>
+		<string>👽</string>
+	</dict>
+	<dict>
+		<key>U+1F47E</key>
+		<string>👾</string>
+	</dict>
+	<dict>
+		<key>U+1F916</key>
+		<string>🤖</string>
+	</dict>
+	<dict>
+		<key>U+1F4A9</key>
+		<string>💩</string>
+	</dict>
+	<dict>
+		<key>U+1F63A</key>
+		<string>😺</string>
+	</dict>
+	<dict>
+		<key>U+1F638</key>
+		<string>😸</string>
+	</dict>
+	<dict>
+		<key>U+1F639</key>
+		<string>😹</string>
+	</dict>
+	<dict>
+		<key>U+1F63B</key>
+		<string>😻</string>
+	</dict>
+	<dict>
+		<key>U+1F63C</key>
+		<string>😼</string>
+	</dict>
+	<dict>
+		<key>U+1F63D</key>
+		<string>😽</string>
+	</dict>
+	<dict>
+		<key>U+1F640</key>
+		<string>🙀</string>
+	</dict>
+	<dict>
+		<key>U+1F63F</key>
+		<string>😿</string>
+	</dict>
+	<dict>
+		<key>U+1F63E</key>
+		<string>😾</string>
+	</dict>
+	<dict>
+		<key>U+1F648</key>
+		<string>🙈</string>
+	</dict>
+	<dict>
+		<key>U+1F649</key>
+		<string>🙉</string>
+	</dict>
+	<dict>
+		<key>U+1F64A</key>
+		<string>🙊</string>
+	</dict>
+	<dict>
+		<key>U+1F476</key>
+		<string>👶</string>
+	</dict>
+	<dict>
+		<key>U+1F476 U+1F3FB</key>
+		<string>👶🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F476 U+1F3FC</key>
+		<string>👶🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F476 U+1F3FD</key>
+		<string>👶🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F476 U+1F3FE</key>
+		<string>👶🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F476 U+1F3FF</key>
+		<string>👶🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D2</key>
+		<string>🧒</string>
+	</dict>
+	<dict>
+		<key>U+1F9D2 U+1F3FB</key>
+		<string>🧒🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D2 U+1F3FC</key>
+		<string>🧒🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D2 U+1F3FD</key>
+		<string>🧒🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D2 U+1F3FE</key>
+		<string>🧒🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D2 U+1F3FF</key>
+		<string>🧒🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F466</key>
+		<string>👦</string>
+	</dict>
+	<dict>
+		<key>U+1F466 U+1F3FB</key>
+		<string>👦🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F466 U+1F3FC</key>
+		<string>👦🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F466 U+1F3FD</key>
+		<string>👦🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F466 U+1F3FE</key>
+		<string>👦🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F466 U+1F3FF</key>
+		<string>👦🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F467</key>
+		<string>👧</string>
+	</dict>
+	<dict>
+		<key>U+1F467 U+1F3FB</key>
+		<string>👧🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F467 U+1F3FC</key>
+		<string>👧🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F467 U+1F3FD</key>
+		<string>👧🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F467 U+1F3FE</key>
+		<string>👧🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F467 U+1F3FF</key>
+		<string>👧🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D1</key>
+		<string>🧑</string>
+	</dict>
+	<dict>
+		<key>U+1F9D1 U+1F3FB</key>
+		<string>🧑🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D1 U+1F3FC</key>
+		<string>🧑🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D1 U+1F3FD</key>
+		<string>🧑🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D1 U+1F3FE</key>
+		<string>🧑🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D1 U+1F3FF</key>
+		<string>🧑🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F468</key>
+		<string>👨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB</key>
+		<string>👨🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC</key>
+		<string>👨🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD</key>
+		<string>👨🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE</key>
+		<string>👨🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF</key>
+		<string>👨🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F469</key>
+		<string>👩</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB</key>
+		<string>👩🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC</key>
+		<string>👩🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD</key>
+		<string>👩🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE</key>
+		<string>👩🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF</key>
+		<string>👩🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D3</key>
+		<string>🧓</string>
+	</dict>
+	<dict>
+		<key>U+1F9D3 U+1F3FB</key>
+		<string>🧓🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D3 U+1F3FC</key>
+		<string>🧓🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D3 U+1F3FD</key>
+		<string>🧓🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D3 U+1F3FE</key>
+		<string>🧓🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D3 U+1F3FF</key>
+		<string>🧓🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F474</key>
+		<string>👴</string>
+	</dict>
+	<dict>
+		<key>U+1F474 U+1F3FB</key>
+		<string>👴🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F474 U+1F3FC</key>
+		<string>👴🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F474 U+1F3FD</key>
+		<string>👴🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F474 U+1F3FE</key>
+		<string>👴🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F474 U+1F3FF</key>
+		<string>👴🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F475</key>
+		<string>👵</string>
+	</dict>
+	<dict>
+		<key>U+1F475 U+1F3FB</key>
+		<string>👵🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F475 U+1F3FC</key>
+		<string>👵🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F475 U+1F3FD</key>
+		<string>👵🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F475 U+1F3FE</key>
+		<string>👵🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F475 U+1F3FF</key>
+		<string>👵🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+2695 U+FE0F</key>
+		<string>👨‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+2695 U+FE0F</key>
+		<string>👨🏻‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+2695 U+FE0F</key>
+		<string>👨🏼‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+2695 U+FE0F</key>
+		<string>👨🏽‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+2695 U+FE0F</key>
+		<string>👨🏾‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+2695 U+FE0F</key>
+		<string>👨🏿‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+2695 U+FE0F</key>
+		<string>👩‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+2695 U+FE0F</key>
+		<string>👩🏻‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+2695 U+FE0F</key>
+		<string>👩🏼‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+2695 U+FE0F</key>
+		<string>👩🏽‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+2695 U+FE0F</key>
+		<string>👩🏾‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+2695 U+FE0F</key>
+		<string>👩🏿‍⚕️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F393</key>
+		<string>👨‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F393</key>
+		<string>👨🏻‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F393</key>
+		<string>👨🏼‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F393</key>
+		<string>👨🏽‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F393</key>
+		<string>👨🏾‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F393</key>
+		<string>👨🏿‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F393</key>
+		<string>👩‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F393</key>
+		<string>👩🏻‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F393</key>
+		<string>👩🏼‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F393</key>
+		<string>👩🏽‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F393</key>
+		<string>👩🏾‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F393</key>
+		<string>👩🏿‍🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F3EB</key>
+		<string>👨‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F3EB</key>
+		<string>👨🏻‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F3EB</key>
+		<string>👨🏼‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F3EB</key>
+		<string>👨🏽‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F3EB</key>
+		<string>👨🏾‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F3EB</key>
+		<string>👨🏿‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F3EB</key>
+		<string>👩‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F3EB</key>
+		<string>👩🏻‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F3EB</key>
+		<string>👩🏼‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F3EB</key>
+		<string>👩🏽‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F3EB</key>
+		<string>👩🏾‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F3EB</key>
+		<string>👩🏿‍🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+2696 U+FE0F</key>
+		<string>👨‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+2696 U+FE0F</key>
+		<string>👨🏻‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+2696 U+FE0F</key>
+		<string>👨🏼‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+2696 U+FE0F</key>
+		<string>👨🏽‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+2696 U+FE0F</key>
+		<string>👨🏾‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+2696 U+FE0F</key>
+		<string>👨🏿‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+2696 U+FE0F</key>
+		<string>👩‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+2696 U+FE0F</key>
+		<string>👩🏻‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+2696 U+FE0F</key>
+		<string>👩🏼‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+2696 U+FE0F</key>
+		<string>👩🏽‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+2696 U+FE0F</key>
+		<string>👩🏾‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+2696 U+FE0F</key>
+		<string>👩🏿‍⚖️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F33E</key>
+		<string>👨‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F33E</key>
+		<string>👨🏻‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F33E</key>
+		<string>👨🏼‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F33E</key>
+		<string>👨🏽‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F33E</key>
+		<string>👨🏾‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F33E</key>
+		<string>👨🏿‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F33E</key>
+		<string>👩‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F33E</key>
+		<string>👩🏻‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F33E</key>
+		<string>👩🏼‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F33E</key>
+		<string>👩🏽‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F33E</key>
+		<string>👩🏾‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F33E</key>
+		<string>👩🏿‍🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F373</key>
+		<string>👨‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F373</key>
+		<string>👨🏻‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F373</key>
+		<string>👨🏼‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F373</key>
+		<string>👨🏽‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F373</key>
+		<string>👨🏾‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F373</key>
+		<string>👨🏿‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F373</key>
+		<string>👩‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F373</key>
+		<string>👩🏻‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F373</key>
+		<string>👩🏼‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F373</key>
+		<string>👩🏽‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F373</key>
+		<string>👩🏾‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F373</key>
+		<string>👩🏿‍🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F527</key>
+		<string>👨‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F527</key>
+		<string>👨🏻‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F527</key>
+		<string>👨🏼‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F527</key>
+		<string>👨🏽‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F527</key>
+		<string>👨🏾‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F527</key>
+		<string>👨🏿‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F527</key>
+		<string>👩‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F527</key>
+		<string>👩🏻‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F527</key>
+		<string>👩🏼‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F527</key>
+		<string>👩🏽‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F527</key>
+		<string>👩🏾‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F527</key>
+		<string>👩🏿‍🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F3ED</key>
+		<string>👨‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F3ED</key>
+		<string>👨🏻‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F3ED</key>
+		<string>👨🏼‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F3ED</key>
+		<string>👨🏽‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F3ED</key>
+		<string>👨🏾‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F3ED</key>
+		<string>👨🏿‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F3ED</key>
+		<string>👩‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F3ED</key>
+		<string>👩🏻‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F3ED</key>
+		<string>👩🏼‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F3ED</key>
+		<string>👩🏽‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F3ED</key>
+		<string>👩🏾‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F3ED</key>
+		<string>👩🏿‍🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F4BC</key>
+		<string>👨‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F4BC</key>
+		<string>👨🏻‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F4BC</key>
+		<string>👨🏼‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F4BC</key>
+		<string>👨🏽‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F4BC</key>
+		<string>👨🏾‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F4BC</key>
+		<string>👨🏿‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F4BC</key>
+		<string>👩‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F4BC</key>
+		<string>👩🏻‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F4BC</key>
+		<string>👩🏼‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F4BC</key>
+		<string>👩🏽‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F4BC</key>
+		<string>👩🏾‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F4BC</key>
+		<string>👩🏿‍💼</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F52C</key>
+		<string>👨‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F52C</key>
+		<string>👨🏻‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F52C</key>
+		<string>👨🏼‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F52C</key>
+		<string>👨🏽‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F52C</key>
+		<string>👨🏾‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F52C</key>
+		<string>👨🏿‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F52C</key>
+		<string>👩‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F52C</key>
+		<string>👩🏻‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F52C</key>
+		<string>👩🏼‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F52C</key>
+		<string>👩🏽‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F52C</key>
+		<string>👩🏾‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F52C</key>
+		<string>👩🏿‍🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F4BB</key>
+		<string>👨‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F4BB</key>
+		<string>👨🏻‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F4BB</key>
+		<string>👨🏼‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F4BB</key>
+		<string>👨🏽‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F4BB</key>
+		<string>👨🏾‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F4BB</key>
+		<string>👨🏿‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F4BB</key>
+		<string>👩‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F4BB</key>
+		<string>👩🏻‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F4BB</key>
+		<string>👩🏼‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F4BB</key>
+		<string>👩🏽‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F4BB</key>
+		<string>👩🏾‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F4BB</key>
+		<string>👩🏿‍💻</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F3A4</key>
+		<string>👨‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F3A4</key>
+		<string>👨🏻‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F3A4</key>
+		<string>👨🏼‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F3A4</key>
+		<string>👨🏽‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F3A4</key>
+		<string>👨🏾‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F3A4</key>
+		<string>👨🏿‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F3A4</key>
+		<string>👩‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F3A4</key>
+		<string>👩🏻‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F3A4</key>
+		<string>👩🏼‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F3A4</key>
+		<string>👩🏽‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F3A4</key>
+		<string>👩🏾‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F3A4</key>
+		<string>👩🏿‍🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F3A8</key>
+		<string>👨‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F3A8</key>
+		<string>👨🏻‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F3A8</key>
+		<string>👨🏼‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F3A8</key>
+		<string>👨🏽‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F3A8</key>
+		<string>👨🏾‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F3A8</key>
+		<string>👨🏿‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F3A8</key>
+		<string>👩‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F3A8</key>
+		<string>👩🏻‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F3A8</key>
+		<string>👩🏼‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F3A8</key>
+		<string>👩🏽‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F3A8</key>
+		<string>👩🏾‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F3A8</key>
+		<string>👩🏿‍🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+2708 U+FE0F</key>
+		<string>👨‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+2708 U+FE0F</key>
+		<string>👨🏻‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+2708 U+FE0F</key>
+		<string>👨🏼‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+2708 U+FE0F</key>
+		<string>👨🏽‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+2708 U+FE0F</key>
+		<string>👨🏾‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+2708 U+FE0F</key>
+		<string>👨🏿‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+2708 U+FE0F</key>
+		<string>👩‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+2708 U+FE0F</key>
+		<string>👩🏻‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+2708 U+FE0F</key>
+		<string>👩🏼‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+2708 U+FE0F</key>
+		<string>👩🏽‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+2708 U+FE0F</key>
+		<string>👩🏾‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+2708 U+FE0F</key>
+		<string>👩🏿‍✈️</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F680</key>
+		<string>👨‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F680</key>
+		<string>👨🏻‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F680</key>
+		<string>👨🏼‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F680</key>
+		<string>👨🏽‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F680</key>
+		<string>👨🏾‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F680</key>
+		<string>👨🏿‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F680</key>
+		<string>👩‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F680</key>
+		<string>👩🏻‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F680</key>
+		<string>👩🏼‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F680</key>
+		<string>👩🏽‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F680</key>
+		<string>👩🏾‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F680</key>
+		<string>👩🏿‍🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F692</key>
+		<string>👨‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FB U+200D U+1F692</key>
+		<string>👨🏻‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FC U+200D U+1F692</key>
+		<string>👨🏼‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FD U+200D U+1F692</key>
+		<string>👨🏽‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FE U+200D U+1F692</key>
+		<string>👨🏾‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+1F3FF U+200D U+1F692</key>
+		<string>👨🏿‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F692</key>
+		<string>👩‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FB U+200D U+1F692</key>
+		<string>👩🏻‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FC U+200D U+1F692</key>
+		<string>👩🏼‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FD U+200D U+1F692</key>
+		<string>👩🏽‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FE U+200D U+1F692</key>
+		<string>👩🏾‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+1F3FF U+200D U+1F692</key>
+		<string>👩🏿‍🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F46E</key>
+		<string>👮</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FB</key>
+		<string>👮🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FC</key>
+		<string>👮🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FD</key>
+		<string>👮🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FE</key>
+		<string>👮🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FF</key>
+		<string>👮🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+200D U+2642 U+FE0F</key>
+		<string>👮‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>👮🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>👮🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>👮🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>👮🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>👮🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+200D U+2640 U+FE0F</key>
+		<string>👮‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>👮🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>👮🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>👮🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>👮🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F46E U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>👮🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F575</key>
+		<string>🕵</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FB</key>
+		<string>🕵🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FC</key>
+		<string>🕵🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FD</key>
+		<string>🕵🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FE</key>
+		<string>🕵🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FF</key>
+		<string>🕵🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+FE0F U+200D U+2642 U+FE0F</key>
+		<string>🕵️‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🕵🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🕵🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🕵🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🕵🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🕵🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+FE0F U+200D U+2640 U+FE0F</key>
+		<string>🕵️‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🕵🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🕵🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🕵🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🕵🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F575 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🕵🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F482</key>
+		<string>💂</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FB</key>
+		<string>💂🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FC</key>
+		<string>💂🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FD</key>
+		<string>💂🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FE</key>
+		<string>💂🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FF</key>
+		<string>💂🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+200D U+2642 U+FE0F</key>
+		<string>💂‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>💂🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>💂🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>💂🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>💂🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>💂🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+200D U+2640 U+FE0F</key>
+		<string>💂‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>💂🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>💂🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>💂🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>💂🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F482 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>💂🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F477</key>
+		<string>👷</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FB</key>
+		<string>👷🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FC</key>
+		<string>👷🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FD</key>
+		<string>👷🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FE</key>
+		<string>👷🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FF</key>
+		<string>👷🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+200D U+2642 U+FE0F</key>
+		<string>👷‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>👷🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>👷🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>👷🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>👷🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>👷🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+200D U+2640 U+FE0F</key>
+		<string>👷‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>👷🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>👷🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>👷🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>👷🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F477 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>👷🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F934</key>
+		<string>🤴</string>
+	</dict>
+	<dict>
+		<key>U+1F934 U+1F3FB</key>
+		<string>🤴🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F934 U+1F3FC</key>
+		<string>🤴🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F934 U+1F3FD</key>
+		<string>🤴🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F934 U+1F3FE</key>
+		<string>🤴🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F934 U+1F3FF</key>
+		<string>🤴🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F478</key>
+		<string>👸</string>
+	</dict>
+	<dict>
+		<key>U+1F478 U+1F3FB</key>
+		<string>👸🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F478 U+1F3FC</key>
+		<string>👸🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F478 U+1F3FD</key>
+		<string>👸🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F478 U+1F3FE</key>
+		<string>👸🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F478 U+1F3FF</key>
+		<string>👸🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F473</key>
+		<string>👳</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FB</key>
+		<string>👳🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FC</key>
+		<string>👳🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FD</key>
+		<string>👳🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FE</key>
+		<string>👳🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FF</key>
+		<string>👳🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+200D U+2642 U+FE0F</key>
+		<string>👳‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>👳🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>👳🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>👳🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>👳🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>👳🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+200D U+2640 U+FE0F</key>
+		<string>👳‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>👳🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>👳🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>👳🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>👳🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F473 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>👳🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F472</key>
+		<string>👲</string>
+	</dict>
+	<dict>
+		<key>U+1F472 U+1F3FB</key>
+		<string>👲🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F472 U+1F3FC</key>
+		<string>👲🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F472 U+1F3FD</key>
+		<string>👲🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F472 U+1F3FE</key>
+		<string>👲🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F472 U+1F3FF</key>
+		<string>👲🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D5</key>
+		<string>🧕</string>
+	</dict>
+	<dict>
+		<key>U+1F9D5 U+1F3FB</key>
+		<string>🧕🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D5 U+1F3FC</key>
+		<string>🧕🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D5 U+1F3FD</key>
+		<string>🧕🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D5 U+1F3FE</key>
+		<string>🧕🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D5 U+1F3FF</key>
+		<string>🧕🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D4</key>
+		<string>🧔</string>
+	</dict>
+	<dict>
+		<key>U+1F9D4 U+1F3FB</key>
+		<string>🧔🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D4 U+1F3FC</key>
+		<string>🧔🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D4 U+1F3FD</key>
+		<string>🧔🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D4 U+1F3FE</key>
+		<string>🧔🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D4 U+1F3FF</key>
+		<string>🧔🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F471</key>
+		<string>👱</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FB</key>
+		<string>👱🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FC</key>
+		<string>👱🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FD</key>
+		<string>👱🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FE</key>
+		<string>👱🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FF</key>
+		<string>👱🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+200D U+2642 U+FE0F</key>
+		<string>👱‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>👱🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>👱🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>👱🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>👱🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>👱🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+200D U+2640 U+FE0F</key>
+		<string>👱‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>👱🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>👱🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>👱🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>👱🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F471 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>👱🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F935</key>
+		<string>🤵</string>
+	</dict>
+	<dict>
+		<key>U+1F935 U+1F3FB</key>
+		<string>🤵🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F935 U+1F3FC</key>
+		<string>🤵🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F935 U+1F3FD</key>
+		<string>🤵🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F935 U+1F3FE</key>
+		<string>🤵🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F935 U+1F3FF</key>
+		<string>🤵🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F470</key>
+		<string>👰</string>
+	</dict>
+	<dict>
+		<key>U+1F470 U+1F3FB</key>
+		<string>👰🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F470 U+1F3FC</key>
+		<string>👰🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F470 U+1F3FD</key>
+		<string>👰🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F470 U+1F3FE</key>
+		<string>👰🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F470 U+1F3FF</key>
+		<string>👰🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F930</key>
+		<string>🤰</string>
+	</dict>
+	<dict>
+		<key>U+1F930 U+1F3FB</key>
+		<string>🤰🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F930 U+1F3FC</key>
+		<string>🤰🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F930 U+1F3FD</key>
+		<string>🤰🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F930 U+1F3FE</key>
+		<string>🤰🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F930 U+1F3FF</key>
+		<string>🤰🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F931</key>
+		<string>🤱</string>
+	</dict>
+	<dict>
+		<key>U+1F931 U+1F3FB</key>
+		<string>🤱🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F931 U+1F3FC</key>
+		<string>🤱🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F931 U+1F3FD</key>
+		<string>🤱🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F931 U+1F3FE</key>
+		<string>🤱🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F931 U+1F3FF</key>
+		<string>🤱🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F47C</key>
+		<string>👼</string>
+	</dict>
+	<dict>
+		<key>U+1F47C U+1F3FB</key>
+		<string>👼🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F47C U+1F3FC</key>
+		<string>👼🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F47C U+1F3FD</key>
+		<string>👼🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F47C U+1F3FE</key>
+		<string>👼🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F47C U+1F3FF</key>
+		<string>👼🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F385</key>
+		<string>🎅</string>
+	</dict>
+	<dict>
+		<key>U+1F385 U+1F3FB</key>
+		<string>🎅🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F385 U+1F3FC</key>
+		<string>🎅🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F385 U+1F3FD</key>
+		<string>🎅🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F385 U+1F3FE</key>
+		<string>🎅🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F385 U+1F3FF</key>
+		<string>🎅🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F936</key>
+		<string>🤶</string>
+	</dict>
+	<dict>
+		<key>U+1F936 U+1F3FB</key>
+		<string>🤶🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F936 U+1F3FC</key>
+		<string>🤶🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F936 U+1F3FD</key>
+		<string>🤶🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F936 U+1F3FE</key>
+		<string>🤶🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F936 U+1F3FF</key>
+		<string>🤶🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9</key>
+		<string>🧙</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FB</key>
+		<string>🧙🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FC</key>
+		<string>🧙🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FD</key>
+		<string>🧙🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FE</key>
+		<string>🧙🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FF</key>
+		<string>🧙🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+200D U+2640 U+FE0F</key>
+		<string>🧙‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🧙🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🧙🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🧙🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🧙🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🧙🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+200D U+2642 U+FE0F</key>
+		<string>🧙‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🧙🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🧙🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🧙🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🧙🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D9 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🧙🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA</key>
+		<string>🧚</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FB</key>
+		<string>🧚🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FC</key>
+		<string>🧚🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FD</key>
+		<string>🧚🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FE</key>
+		<string>🧚🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FF</key>
+		<string>🧚🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+200D U+2640 U+FE0F</key>
+		<string>🧚‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🧚🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🧚🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🧚🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🧚🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🧚🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+200D U+2642 U+FE0F</key>
+		<string>🧚‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🧚🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🧚🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🧚🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🧚🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DA U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🧚🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB</key>
+		<string>🧛</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FB</key>
+		<string>🧛🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FC</key>
+		<string>🧛🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FD</key>
+		<string>🧛🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FE</key>
+		<string>🧛🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FF</key>
+		<string>🧛🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+200D U+2640 U+FE0F</key>
+		<string>🧛‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🧛🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🧛🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🧛🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🧛🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🧛🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+200D U+2642 U+FE0F</key>
+		<string>🧛‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🧛🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🧛🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🧛🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🧛🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DB U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🧛🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC</key>
+		<string>🧜</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FB</key>
+		<string>🧜🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FC</key>
+		<string>🧜🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FD</key>
+		<string>🧜🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FE</key>
+		<string>🧜🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FF</key>
+		<string>🧜🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+200D U+2640 U+FE0F</key>
+		<string>🧜‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🧜🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🧜🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🧜🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🧜🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🧜🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+200D U+2642 U+FE0F</key>
+		<string>🧜‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🧜🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🧜🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🧜🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🧜🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DC U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🧜🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD</key>
+		<string>🧝</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FB</key>
+		<string>🧝🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FC</key>
+		<string>🧝🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FD</key>
+		<string>🧝🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FE</key>
+		<string>🧝🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FF</key>
+		<string>🧝🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+200D U+2640 U+FE0F</key>
+		<string>🧝‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🧝🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🧝🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🧝🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🧝🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🧝🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+200D U+2642 U+FE0F</key>
+		<string>🧝‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🧝🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🧝🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🧝🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🧝🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DD U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🧝🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DE</key>
+		<string>🧞</string>
+	</dict>
+	<dict>
+		<key>U+1F9DE U+200D U+2640 U+FE0F</key>
+		<string>🧞‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DE U+200D U+2642 U+FE0F</key>
+		<string>🧞‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DF</key>
+		<string>🧟</string>
+	</dict>
+	<dict>
+		<key>U+1F9DF U+200D U+2640 U+FE0F</key>
+		<string>🧟‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9DF U+200D U+2642 U+FE0F</key>
+		<string>🧟‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D</key>
+		<string>🙍</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FB</key>
+		<string>🙍🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FC</key>
+		<string>🙍🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FD</key>
+		<string>🙍🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FE</key>
+		<string>🙍🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FF</key>
+		<string>🙍🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+200D U+2642 U+FE0F</key>
+		<string>🙍‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🙍🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🙍🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🙍🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🙍🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🙍🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+200D U+2640 U+FE0F</key>
+		<string>🙍‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🙍🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🙍🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🙍🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🙍🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64D U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🙍🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E</key>
+		<string>🙎</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FB</key>
+		<string>🙎🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FC</key>
+		<string>🙎🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FD</key>
+		<string>🙎🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FE</key>
+		<string>🙎🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FF</key>
+		<string>🙎🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+200D U+2642 U+FE0F</key>
+		<string>🙎‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🙎🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🙎🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🙎🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🙎🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🙎🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+200D U+2640 U+FE0F</key>
+		<string>🙎‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🙎🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🙎🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🙎🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🙎🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64E U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🙎🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F645</key>
+		<string>🙅</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FB</key>
+		<string>🙅🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FC</key>
+		<string>🙅🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FD</key>
+		<string>🙅🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FE</key>
+		<string>🙅🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FF</key>
+		<string>🙅🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+200D U+2642 U+FE0F</key>
+		<string>🙅‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🙅🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🙅🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🙅🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🙅🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🙅🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+200D U+2640 U+FE0F</key>
+		<string>🙅‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🙅🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🙅🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🙅🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🙅🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F645 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🙅🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F646</key>
+		<string>🙆</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FB</key>
+		<string>🙆🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FC</key>
+		<string>🙆🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FD</key>
+		<string>🙆🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FE</key>
+		<string>🙆🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FF</key>
+		<string>🙆🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+200D U+2642 U+FE0F</key>
+		<string>🙆‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🙆🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🙆🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🙆🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🙆🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🙆🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+200D U+2640 U+FE0F</key>
+		<string>🙆‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🙆🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🙆🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🙆🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🙆🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F646 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🙆🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F481</key>
+		<string>💁</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FB</key>
+		<string>💁🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FC</key>
+		<string>💁🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FD</key>
+		<string>💁🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FE</key>
+		<string>💁🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FF</key>
+		<string>💁🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+200D U+2642 U+FE0F</key>
+		<string>💁‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>💁🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>💁🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>💁🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>💁🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>💁🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+200D U+2640 U+FE0F</key>
+		<string>💁‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>💁🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>💁🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>💁🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>💁🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F481 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>💁🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B</key>
+		<string>🙋</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FB</key>
+		<string>🙋🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FC</key>
+		<string>🙋🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FD</key>
+		<string>🙋🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FE</key>
+		<string>🙋🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FF</key>
+		<string>🙋🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+200D U+2642 U+FE0F</key>
+		<string>🙋‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🙋🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🙋🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🙋🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🙋🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🙋🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+200D U+2640 U+FE0F</key>
+		<string>🙋‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🙋🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🙋🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🙋🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🙋🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F64B U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🙋🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F647</key>
+		<string>🙇</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FB</key>
+		<string>🙇🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FC</key>
+		<string>🙇🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FD</key>
+		<string>🙇🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FE</key>
+		<string>🙇🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FF</key>
+		<string>🙇🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+200D U+2642 U+FE0F</key>
+		<string>🙇‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🙇🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🙇🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🙇🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🙇🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🙇🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+200D U+2640 U+FE0F</key>
+		<string>🙇‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🙇🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🙇🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🙇🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🙇🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F647 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🙇🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F926</key>
+		<string>🤦</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FB</key>
+		<string>🤦🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FC</key>
+		<string>🤦🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FD</key>
+		<string>🤦🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FE</key>
+		<string>🤦🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FF</key>
+		<string>🤦🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+200D U+2642 U+FE0F</key>
+		<string>🤦‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🤦🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🤦🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🤦🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🤦🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🤦🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+200D U+2640 U+FE0F</key>
+		<string>🤦‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🤦🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🤦🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🤦🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🤦🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F926 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🤦🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F937</key>
+		<string>🤷</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FB</key>
+		<string>🤷🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FC</key>
+		<string>🤷🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FD</key>
+		<string>🤷🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FE</key>
+		<string>🤷🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FF</key>
+		<string>🤷🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+200D U+2642 U+FE0F</key>
+		<string>🤷‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🤷🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🤷🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🤷🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🤷🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🤷🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+200D U+2640 U+FE0F</key>
+		<string>🤷‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🤷🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🤷🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🤷🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🤷🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F937 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🤷🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F486</key>
+		<string>💆</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FB</key>
+		<string>💆🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FC</key>
+		<string>💆🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FD</key>
+		<string>💆🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FE</key>
+		<string>💆🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FF</key>
+		<string>💆🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+200D U+2642 U+FE0F</key>
+		<string>💆‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>💆🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>💆🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>💆🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>💆🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>💆🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+200D U+2640 U+FE0F</key>
+		<string>💆‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>💆🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>💆🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>💆🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>💆🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F486 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>💆🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F487</key>
+		<string>💇</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FB</key>
+		<string>💇🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FC</key>
+		<string>💇🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FD</key>
+		<string>💇🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FE</key>
+		<string>💇🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FF</key>
+		<string>💇🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+200D U+2642 U+FE0F</key>
+		<string>💇‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>💇🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>💇🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>💇🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>💇🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>💇🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+200D U+2640 U+FE0F</key>
+		<string>💇‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>💇🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>💇🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>💇🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>💇🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F487 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>💇🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6</key>
+		<string>🚶</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FB</key>
+		<string>🚶🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FC</key>
+		<string>🚶🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FD</key>
+		<string>🚶🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FE</key>
+		<string>🚶🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FF</key>
+		<string>🚶🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+200D U+2642 U+FE0F</key>
+		<string>🚶‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🚶🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🚶🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🚶🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🚶🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🚶🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+200D U+2640 U+FE0F</key>
+		<string>🚶‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🚶🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🚶🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🚶🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🚶🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B6 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🚶🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3</key>
+		<string>🏃</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FB</key>
+		<string>🏃🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FC</key>
+		<string>🏃🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FD</key>
+		<string>🏃🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FE</key>
+		<string>🏃🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FF</key>
+		<string>🏃🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+200D U+2642 U+FE0F</key>
+		<string>🏃‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🏃🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🏃🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🏃🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🏃🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🏃🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+200D U+2640 U+FE0F</key>
+		<string>🏃‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🏃🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🏃🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🏃🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🏃🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C3 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🏃🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F483</key>
+		<string>💃</string>
+	</dict>
+	<dict>
+		<key>U+1F483 U+1F3FB</key>
+		<string>💃🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F483 U+1F3FC</key>
+		<string>💃🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F483 U+1F3FD</key>
+		<string>💃🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F483 U+1F3FE</key>
+		<string>💃🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F483 U+1F3FF</key>
+		<string>💃🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F57A</key>
+		<string>🕺</string>
+	</dict>
+	<dict>
+		<key>U+1F57A U+1F3FB</key>
+		<string>🕺🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F57A U+1F3FC</key>
+		<string>🕺🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F57A U+1F3FD</key>
+		<string>🕺🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F57A U+1F3FE</key>
+		<string>🕺🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F57A U+1F3FF</key>
+		<string>🕺🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F46F</key>
+		<string>👯</string>
+	</dict>
+	<dict>
+		<key>U+1F46F U+200D U+2642 U+FE0F</key>
+		<string>👯‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F46F U+200D U+2640 U+FE0F</key>
+		<string>👯‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6</key>
+		<string>🧖</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FB</key>
+		<string>🧖🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FC</key>
+		<string>🧖🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FD</key>
+		<string>🧖🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FE</key>
+		<string>🧖🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FF</key>
+		<string>🧖🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+200D U+2640 U+FE0F</key>
+		<string>🧖‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🧖🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🧖🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🧖🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🧖🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🧖🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+200D U+2642 U+FE0F</key>
+		<string>🧖‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🧖🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🧖🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🧖🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🧖🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D6 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🧖🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7</key>
+		<string>🧗</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FB</key>
+		<string>🧗🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FC</key>
+		<string>🧗🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FD</key>
+		<string>🧗🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FE</key>
+		<string>🧗🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FF</key>
+		<string>🧗🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+200D U+2640 U+FE0F</key>
+		<string>🧗‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🧗🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🧗🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🧗🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🧗🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🧗🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+200D U+2642 U+FE0F</key>
+		<string>🧗‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🧗🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🧗🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🧗🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🧗🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D7 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🧗🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8</key>
+		<string>🧘</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FB</key>
+		<string>🧘🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FC</key>
+		<string>🧘🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FD</key>
+		<string>🧘🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FE</key>
+		<string>🧘🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FF</key>
+		<string>🧘🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+200D U+2640 U+FE0F</key>
+		<string>🧘‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🧘🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🧘🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🧘🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🧘🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🧘🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+200D U+2642 U+FE0F</key>
+		<string>🧘‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🧘🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🧘🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🧘🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🧘🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F9D8 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🧘🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6C0</key>
+		<string>🛀</string>
+	</dict>
+	<dict>
+		<key>U+1F6C0 U+1F3FB</key>
+		<string>🛀🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F6C0 U+1F3FC</key>
+		<string>🛀🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F6C0 U+1F3FD</key>
+		<string>🛀🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F6C0 U+1F3FE</key>
+		<string>🛀🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F6C0 U+1F3FF</key>
+		<string>🛀🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F6CC</key>
+		<string>🛌</string>
+	</dict>
+	<dict>
+		<key>U+1F6CC U+1F3FB</key>
+		<string>🛌🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F6CC U+1F3FC</key>
+		<string>🛌🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F6CC U+1F3FD</key>
+		<string>🛌🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F6CC U+1F3FE</key>
+		<string>🛌🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F6CC U+1F3FF</key>
+		<string>🛌🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F574</key>
+		<string>🕴</string>
+	</dict>
+	<dict>
+		<key>U+1F574 U+1F3FB</key>
+		<string>🕴🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F574 U+1F3FC</key>
+		<string>🕴🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F574 U+1F3FD</key>
+		<string>🕴🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F574 U+1F3FE</key>
+		<string>🕴🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F574 U+1F3FF</key>
+		<string>🕴🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F5E3</key>
+		<string>🗣</string>
+	</dict>
+	<dict>
+		<key>U+1F464</key>
+		<string>👤</string>
+	</dict>
+	<dict>
+		<key>U+1F465</key>
+		<string>👥</string>
+	</dict>
+	<dict>
+		<key>U+1F93A</key>
+		<string>🤺</string>
+	</dict>
+	<dict>
+		<key>U+1F3C7</key>
+		<string>🏇</string>
+	</dict>
+	<dict>
+		<key>U+1F3C7 U+1F3FB</key>
+		<string>🏇🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F3C7 U+1F3FC</key>
+		<string>🏇🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F3C7 U+1F3FD</key>
+		<string>🏇🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F3C7 U+1F3FE</key>
+		<string>🏇🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F3C7 U+1F3FF</key>
+		<string>🏇🏿</string>
+	</dict>
+	<dict>
+		<key>U+26F7</key>
+		<string>⛷</string>
+	</dict>
+	<dict>
+		<key>U+1F3C2</key>
+		<string>🏂</string>
+	</dict>
+	<dict>
+		<key>U+1F3C2 U+1F3FB</key>
+		<string>🏂🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F3C2 U+1F3FC</key>
+		<string>🏂🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F3C2 U+1F3FD</key>
+		<string>🏂🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F3C2 U+1F3FE</key>
+		<string>🏂🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F3C2 U+1F3FF</key>
+		<string>🏂🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC</key>
+		<string>🏌</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FB</key>
+		<string>🏌🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FC</key>
+		<string>🏌🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FD</key>
+		<string>🏌🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FE</key>
+		<string>🏌🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FF</key>
+		<string>🏌🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+FE0F U+200D U+2642 U+FE0F</key>
+		<string>🏌️‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🏌🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🏌🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🏌🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🏌🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🏌🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+FE0F U+200D U+2640 U+FE0F</key>
+		<string>🏌️‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🏌🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🏌🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🏌🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🏌🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CC U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🏌🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4</key>
+		<string>🏄</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FB</key>
+		<string>🏄🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FC</key>
+		<string>🏄🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FD</key>
+		<string>🏄🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FE</key>
+		<string>🏄🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FF</key>
+		<string>🏄🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+200D U+2642 U+FE0F</key>
+		<string>🏄‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🏄🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🏄🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🏄🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🏄🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🏄🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+200D U+2640 U+FE0F</key>
+		<string>🏄‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🏄🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🏄🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🏄🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🏄🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3C4 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🏄🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3</key>
+		<string>🚣</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FB</key>
+		<string>🚣🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FC</key>
+		<string>🚣🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FD</key>
+		<string>🚣🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FE</key>
+		<string>🚣🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FF</key>
+		<string>🚣🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+200D U+2642 U+FE0F</key>
+		<string>🚣‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🚣🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🚣🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🚣🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🚣🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🚣🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+200D U+2640 U+FE0F</key>
+		<string>🚣‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🚣🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🚣🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🚣🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🚣🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6A3 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🚣🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA</key>
+		<string>🏊</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FB</key>
+		<string>🏊🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FC</key>
+		<string>🏊🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FD</key>
+		<string>🏊🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FE</key>
+		<string>🏊🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FF</key>
+		<string>🏊🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+200D U+2642 U+FE0F</key>
+		<string>🏊‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🏊🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🏊🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🏊🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🏊🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🏊🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+200D U+2640 U+FE0F</key>
+		<string>🏊‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🏊🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🏊🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🏊🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🏊🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CA U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🏊🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+26F9</key>
+		<string>⛹</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FB</key>
+		<string>⛹🏻</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FC</key>
+		<string>⛹🏼</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FD</key>
+		<string>⛹🏽</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FE</key>
+		<string>⛹🏾</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FF</key>
+		<string>⛹🏿</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+FE0F U+200D U+2642 U+FE0F</key>
+		<string>⛹️‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>⛹🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>⛹🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>⛹🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>⛹🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>⛹🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+FE0F U+200D U+2640 U+FE0F</key>
+		<string>⛹️‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>⛹🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>⛹🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>⛹🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>⛹🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+26F9 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>⛹🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB</key>
+		<string>🏋</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FB</key>
+		<string>🏋🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FC</key>
+		<string>🏋🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FD</key>
+		<string>🏋🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FE</key>
+		<string>🏋🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FF</key>
+		<string>🏋🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+FE0F U+200D U+2642 U+FE0F</key>
+		<string>🏋️‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🏋🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🏋🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🏋🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🏋🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🏋🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+FE0F U+200D U+2640 U+FE0F</key>
+		<string>🏋️‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🏋🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🏋🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🏋🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🏋🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CB U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🏋🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4</key>
+		<string>🚴</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FB</key>
+		<string>🚴🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FC</key>
+		<string>🚴🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FD</key>
+		<string>🚴🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FE</key>
+		<string>🚴🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FF</key>
+		<string>🚴🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+200D U+2642 U+FE0F</key>
+		<string>🚴‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🚴🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🚴🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🚴🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🚴🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🚴🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+200D U+2640 U+FE0F</key>
+		<string>🚴‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🚴🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🚴🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🚴🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🚴🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B4 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🚴🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5</key>
+		<string>🚵</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FB</key>
+		<string>🚵🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FC</key>
+		<string>🚵🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FD</key>
+		<string>🚵🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FE</key>
+		<string>🚵🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FF</key>
+		<string>🚵🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+200D U+2642 U+FE0F</key>
+		<string>🚵‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🚵🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🚵🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🚵🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🚵🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🚵🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+200D U+2640 U+FE0F</key>
+		<string>🚵‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🚵🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🚵🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🚵🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🚵🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F6B5 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🚵🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F3CE</key>
+		<string>🏎</string>
+	</dict>
+	<dict>
+		<key>U+1F3CD</key>
+		<string>🏍</string>
+	</dict>
+	<dict>
+		<key>U+1F938</key>
+		<string>🤸</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FB</key>
+		<string>🤸🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FC</key>
+		<string>🤸🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FD</key>
+		<string>🤸🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FE</key>
+		<string>🤸🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FF</key>
+		<string>🤸🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+200D U+2642 U+FE0F</key>
+		<string>🤸‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🤸🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🤸🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🤸🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🤸🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🤸🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+200D U+2640 U+FE0F</key>
+		<string>🤸‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🤸🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🤸🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🤸🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🤸🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F938 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🤸🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93C</key>
+		<string>🤼</string>
+	</dict>
+	<dict>
+		<key>U+1F93C U+200D U+2642 U+FE0F</key>
+		<string>🤼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93C U+200D U+2640 U+FE0F</key>
+		<string>🤼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D</key>
+		<string>🤽</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FB</key>
+		<string>🤽🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FC</key>
+		<string>🤽🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FD</key>
+		<string>🤽🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FE</key>
+		<string>🤽🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FF</key>
+		<string>🤽🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+200D U+2642 U+FE0F</key>
+		<string>🤽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🤽🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🤽🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🤽🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🤽🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🤽🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+200D U+2640 U+FE0F</key>
+		<string>🤽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🤽🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🤽🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🤽🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🤽🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93D U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🤽🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E</key>
+		<string>🤾</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FB</key>
+		<string>🤾🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FC</key>
+		<string>🤾🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FD</key>
+		<string>🤾🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FE</key>
+		<string>🤾🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FF</key>
+		<string>🤾🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+200D U+2642 U+FE0F</key>
+		<string>🤾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🤾🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🤾🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🤾🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🤾🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🤾🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+200D U+2640 U+FE0F</key>
+		<string>🤾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🤾🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🤾🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🤾🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🤾🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F93E U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🤾🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F939</key>
+		<string>🤹</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FB</key>
+		<string>🤹🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FC</key>
+		<string>🤹🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FD</key>
+		<string>🤹🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FE</key>
+		<string>🤹🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FF</key>
+		<string>🤹🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+200D U+2642 U+FE0F</key>
+		<string>🤹‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FB U+200D U+2642 U+FE0F</key>
+		<string>🤹🏻‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FC U+200D U+2642 U+FE0F</key>
+		<string>🤹🏼‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FD U+200D U+2642 U+FE0F</key>
+		<string>🤹🏽‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FE U+200D U+2642 U+FE0F</key>
+		<string>🤹🏾‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FF U+200D U+2642 U+FE0F</key>
+		<string>🤹🏿‍♂️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+200D U+2640 U+FE0F</key>
+		<string>🤹‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FB U+200D U+2640 U+FE0F</key>
+		<string>🤹🏻‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FC U+200D U+2640 U+FE0F</key>
+		<string>🤹🏼‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FD U+200D U+2640 U+FE0F</key>
+		<string>🤹🏽‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FE U+200D U+2640 U+FE0F</key>
+		<string>🤹🏾‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F939 U+1F3FF U+200D U+2640 U+FE0F</key>
+		<string>🤹🏿‍♀️</string>
+	</dict>
+	<dict>
+		<key>U+1F46B</key>
+		<string>👫</string>
+	</dict>
+	<dict>
+		<key>U+1F46C</key>
+		<string>👬</string>
+	</dict>
+	<dict>
+		<key>U+1F46D</key>
+		<string>👭</string>
+	</dict>
+	<dict>
+		<key>U+1F48F</key>
+		<string>💏</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468</key>
+		<string>👩‍❤️‍💋‍👨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468</key>
+		<string>👨‍❤️‍💋‍👨</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469</key>
+		<string>👩‍❤️‍💋‍👩</string>
+	</dict>
+	<dict>
+		<key>U+1F491</key>
+		<string>💑</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468</key>
+		<string>👩‍❤️‍👨</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468</key>
+		<string>👨‍❤️‍👨</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469</key>
+		<string>👩‍❤️‍👩</string>
+	</dict>
+	<dict>
+		<key>U+1F46A</key>
+		<string>👪</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F469 U+200D U+1F466</key>
+		<string>👨‍👩‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F469 U+200D U+1F467</key>
+		<string>👨‍👩‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466</key>
+		<string>👨‍👩‍👧‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466</key>
+		<string>👨‍👩‍👦‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467</key>
+		<string>👨‍👩‍👧‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F468 U+200D U+1F466</key>
+		<string>👨‍👨‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F468 U+200D U+1F467</key>
+		<string>👨‍👨‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466</key>
+		<string>👨‍👨‍👧‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466</key>
+		<string>👨‍👨‍👦‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467</key>
+		<string>👨‍👨‍👧‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F469 U+200D U+1F466</key>
+		<string>👩‍👩‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F469 U+200D U+1F467</key>
+		<string>👩‍👩‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466</key>
+		<string>👩‍👩‍👧‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466</key>
+		<string>👩‍👩‍👦‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467</key>
+		<string>👩‍👩‍👧‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F466</key>
+		<string>👨‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F466 U+200D U+1F466</key>
+		<string>👨‍👦‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F467</key>
+		<string>👨‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F467 U+200D U+1F466</key>
+		<string>👨‍👧‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F468 U+200D U+1F467 U+200D U+1F467</key>
+		<string>👨‍👧‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F466</key>
+		<string>👩‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F466 U+200D U+1F466</key>
+		<string>👩‍👦‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F467</key>
+		<string>👩‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F467 U+200D U+1F466</key>
+		<string>👩‍👧‍👦</string>
+	</dict>
+	<dict>
+		<key>U+1F469 U+200D U+1F467 U+200D U+1F467</key>
+		<string>👩‍👧‍👧</string>
+	</dict>
+	<dict>
+		<key>U+1F933</key>
+		<string>🤳</string>
+	</dict>
+	<dict>
+		<key>U+1F933 U+1F3FB</key>
+		<string>🤳🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F933 U+1F3FC</key>
+		<string>🤳🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F933 U+1F3FD</key>
+		<string>🤳🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F933 U+1F3FE</key>
+		<string>🤳🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F933 U+1F3FF</key>
+		<string>🤳🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F4AA</key>
+		<string>💪</string>
+	</dict>
+	<dict>
+		<key>U+1F4AA U+1F3FB</key>
+		<string>💪🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F4AA U+1F3FC</key>
+		<string>💪🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F4AA U+1F3FD</key>
+		<string>💪🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F4AA U+1F3FE</key>
+		<string>💪🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F4AA U+1F3FF</key>
+		<string>💪🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F448</key>
+		<string>👈</string>
+	</dict>
+	<dict>
+		<key>U+1F448 U+1F3FB</key>
+		<string>👈🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F448 U+1F3FC</key>
+		<string>👈🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F448 U+1F3FD</key>
+		<string>👈🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F448 U+1F3FE</key>
+		<string>👈🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F448 U+1F3FF</key>
+		<string>👈🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F449</key>
+		<string>👉</string>
+	</dict>
+	<dict>
+		<key>U+1F449 U+1F3FB</key>
+		<string>👉🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F449 U+1F3FC</key>
+		<string>👉🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F449 U+1F3FD</key>
+		<string>👉🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F449 U+1F3FE</key>
+		<string>👉🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F449 U+1F3FF</key>
+		<string>👉🏿</string>
+	</dict>
+	<dict>
+		<key>U+261D</key>
+		<string>☝</string>
+	</dict>
+	<dict>
+		<key>U+261D U+1F3FB</key>
+		<string>☝🏻</string>
+	</dict>
+	<dict>
+		<key>U+261D U+1F3FC</key>
+		<string>☝🏼</string>
+	</dict>
+	<dict>
+		<key>U+261D U+1F3FD</key>
+		<string>☝🏽</string>
+	</dict>
+	<dict>
+		<key>U+261D U+1F3FE</key>
+		<string>☝🏾</string>
+	</dict>
+	<dict>
+		<key>U+261D U+1F3FF</key>
+		<string>☝🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F446</key>
+		<string>👆</string>
+	</dict>
+	<dict>
+		<key>U+1F446 U+1F3FB</key>
+		<string>👆🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F446 U+1F3FC</key>
+		<string>👆🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F446 U+1F3FD</key>
+		<string>👆🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F446 U+1F3FE</key>
+		<string>👆🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F446 U+1F3FF</key>
+		<string>👆🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F595</key>
+		<string>🖕</string>
+	</dict>
+	<dict>
+		<key>U+1F595 U+1F3FB</key>
+		<string>🖕🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F595 U+1F3FC</key>
+		<string>🖕🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F595 U+1F3FD</key>
+		<string>🖕🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F595 U+1F3FE</key>
+		<string>🖕🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F595 U+1F3FF</key>
+		<string>🖕🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F447</key>
+		<string>👇</string>
+	</dict>
+	<dict>
+		<key>U+1F447 U+1F3FB</key>
+		<string>👇🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F447 U+1F3FC</key>
+		<string>👇🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F447 U+1F3FD</key>
+		<string>👇🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F447 U+1F3FE</key>
+		<string>👇🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F447 U+1F3FF</key>
+		<string>👇🏿</string>
+	</dict>
+	<dict>
+		<key>U+270C</key>
+		<string>✌</string>
+	</dict>
+	<dict>
+		<key>U+270C U+1F3FB</key>
+		<string>✌🏻</string>
+	</dict>
+	<dict>
+		<key>U+270C U+1F3FC</key>
+		<string>✌🏼</string>
+	</dict>
+	<dict>
+		<key>U+270C U+1F3FD</key>
+		<string>✌🏽</string>
+	</dict>
+	<dict>
+		<key>U+270C U+1F3FE</key>
+		<string>✌🏾</string>
+	</dict>
+	<dict>
+		<key>U+270C U+1F3FF</key>
+		<string>✌🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F91E</key>
+		<string>🤞</string>
+	</dict>
+	<dict>
+		<key>U+1F91E U+1F3FB</key>
+		<string>🤞🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F91E U+1F3FC</key>
+		<string>🤞🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F91E U+1F3FD</key>
+		<string>🤞🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F91E U+1F3FE</key>
+		<string>🤞🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F91E U+1F3FF</key>
+		<string>🤞🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F596</key>
+		<string>🖖</string>
+	</dict>
+	<dict>
+		<key>U+1F596 U+1F3FB</key>
+		<string>🖖🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F596 U+1F3FC</key>
+		<string>🖖🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F596 U+1F3FD</key>
+		<string>🖖🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F596 U+1F3FE</key>
+		<string>🖖🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F596 U+1F3FF</key>
+		<string>🖖🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F918</key>
+		<string>🤘</string>
+	</dict>
+	<dict>
+		<key>U+1F918 U+1F3FB</key>
+		<string>🤘🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F918 U+1F3FC</key>
+		<string>🤘🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F918 U+1F3FD</key>
+		<string>🤘🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F918 U+1F3FE</key>
+		<string>🤘🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F918 U+1F3FF</key>
+		<string>🤘🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F919</key>
+		<string>🤙</string>
+	</dict>
+	<dict>
+		<key>U+1F919 U+1F3FB</key>
+		<string>🤙🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F919 U+1F3FC</key>
+		<string>🤙🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F919 U+1F3FD</key>
+		<string>🤙🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F919 U+1F3FE</key>
+		<string>🤙🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F919 U+1F3FF</key>
+		<string>🤙🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F590</key>
+		<string>🖐</string>
+	</dict>
+	<dict>
+		<key>U+1F590 U+1F3FB</key>
+		<string>🖐🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F590 U+1F3FC</key>
+		<string>🖐🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F590 U+1F3FD</key>
+		<string>🖐🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F590 U+1F3FE</key>
+		<string>🖐🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F590 U+1F3FF</key>
+		<string>🖐🏿</string>
+	</dict>
+	<dict>
+		<key>U+270B</key>
+		<string>✋</string>
+	</dict>
+	<dict>
+		<key>U+270B U+1F3FB</key>
+		<string>✋🏻</string>
+	</dict>
+	<dict>
+		<key>U+270B U+1F3FC</key>
+		<string>✋🏼</string>
+	</dict>
+	<dict>
+		<key>U+270B U+1F3FD</key>
+		<string>✋🏽</string>
+	</dict>
+	<dict>
+		<key>U+270B U+1F3FE</key>
+		<string>✋🏾</string>
+	</dict>
+	<dict>
+		<key>U+270B U+1F3FF</key>
+		<string>✋🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F44C</key>
+		<string>👌</string>
+	</dict>
+	<dict>
+		<key>U+1F44C U+1F3FB</key>
+		<string>👌🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F44C U+1F3FC</key>
+		<string>👌🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F44C U+1F3FD</key>
+		<string>👌🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F44C U+1F3FE</key>
+		<string>👌🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F44C U+1F3FF</key>
+		<string>👌🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F44D</key>
+		<string>👍</string>
+	</dict>
+	<dict>
+		<key>U+1F44D U+1F3FB</key>
+		<string>👍🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F44D U+1F3FC</key>
+		<string>👍🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F44D U+1F3FD</key>
+		<string>👍🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F44D U+1F3FE</key>
+		<string>👍🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F44D U+1F3FF</key>
+		<string>👍🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F44E</key>
+		<string>👎</string>
+	</dict>
+	<dict>
+		<key>U+1F44E U+1F3FB</key>
+		<string>👎🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F44E U+1F3FC</key>
+		<string>👎🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F44E U+1F3FD</key>
+		<string>👎🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F44E U+1F3FE</key>
+		<string>👎🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F44E U+1F3FF</key>
+		<string>👎🏿</string>
+	</dict>
+	<dict>
+		<key>U+270A</key>
+		<string>✊</string>
+	</dict>
+	<dict>
+		<key>U+270A U+1F3FB</key>
+		<string>✊🏻</string>
+	</dict>
+	<dict>
+		<key>U+270A U+1F3FC</key>
+		<string>✊🏼</string>
+	</dict>
+	<dict>
+		<key>U+270A U+1F3FD</key>
+		<string>✊🏽</string>
+	</dict>
+	<dict>
+		<key>U+270A U+1F3FE</key>
+		<string>✊🏾</string>
+	</dict>
+	<dict>
+		<key>U+270A U+1F3FF</key>
+		<string>✊🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F44A</key>
+		<string>👊</string>
+	</dict>
+	<dict>
+		<key>U+1F44A U+1F3FB</key>
+		<string>👊🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F44A U+1F3FC</key>
+		<string>👊🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F44A U+1F3FD</key>
+		<string>👊🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F44A U+1F3FE</key>
+		<string>👊🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F44A U+1F3FF</key>
+		<string>👊🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F91B</key>
+		<string>🤛</string>
+	</dict>
+	<dict>
+		<key>U+1F91B U+1F3FB</key>
+		<string>🤛🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F91B U+1F3FC</key>
+		<string>🤛🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F91B U+1F3FD</key>
+		<string>🤛🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F91B U+1F3FE</key>
+		<string>🤛🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F91B U+1F3FF</key>
+		<string>🤛🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F91C</key>
+		<string>🤜</string>
+	</dict>
+	<dict>
+		<key>U+1F91C U+1F3FB</key>
+		<string>🤜🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F91C U+1F3FC</key>
+		<string>🤜🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F91C U+1F3FD</key>
+		<string>🤜🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F91C U+1F3FE</key>
+		<string>🤜🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F91C U+1F3FF</key>
+		<string>🤜🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F91A</key>
+		<string>🤚</string>
+	</dict>
+	<dict>
+		<key>U+1F91A U+1F3FB</key>
+		<string>🤚🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F91A U+1F3FC</key>
+		<string>🤚🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F91A U+1F3FD</key>
+		<string>🤚🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F91A U+1F3FE</key>
+		<string>🤚🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F91A U+1F3FF</key>
+		<string>🤚🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F44B</key>
+		<string>👋</string>
+	</dict>
+	<dict>
+		<key>U+1F44B U+1F3FB</key>
+		<string>👋🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F44B U+1F3FC</key>
+		<string>👋🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F44B U+1F3FD</key>
+		<string>👋🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F44B U+1F3FE</key>
+		<string>👋🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F44B U+1F3FF</key>
+		<string>👋🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F91F</key>
+		<string>🤟</string>
+	</dict>
+	<dict>
+		<key>U+1F91F U+1F3FB</key>
+		<string>🤟🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F91F U+1F3FC</key>
+		<string>🤟🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F91F U+1F3FD</key>
+		<string>🤟🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F91F U+1F3FE</key>
+		<string>🤟🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F91F U+1F3FF</key>
+		<string>🤟🏿</string>
+	</dict>
+	<dict>
+		<key>U+270D</key>
+		<string>✍</string>
+	</dict>
+	<dict>
+		<key>U+270D U+1F3FB</key>
+		<string>✍🏻</string>
+	</dict>
+	<dict>
+		<key>U+270D U+1F3FC</key>
+		<string>✍🏼</string>
+	</dict>
+	<dict>
+		<key>U+270D U+1F3FD</key>
+		<string>✍🏽</string>
+	</dict>
+	<dict>
+		<key>U+270D U+1F3FE</key>
+		<string>✍🏾</string>
+	</dict>
+	<dict>
+		<key>U+270D U+1F3FF</key>
+		<string>✍🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F44F</key>
+		<string>👏</string>
+	</dict>
+	<dict>
+		<key>U+1F44F U+1F3FB</key>
+		<string>👏🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F44F U+1F3FC</key>
+		<string>👏🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F44F U+1F3FD</key>
+		<string>👏🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F44F U+1F3FE</key>
+		<string>👏🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F44F U+1F3FF</key>
+		<string>👏🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F450</key>
+		<string>👐</string>
+	</dict>
+	<dict>
+		<key>U+1F450 U+1F3FB</key>
+		<string>👐🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F450 U+1F3FC</key>
+		<string>👐🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F450 U+1F3FD</key>
+		<string>👐🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F450 U+1F3FE</key>
+		<string>👐🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F450 U+1F3FF</key>
+		<string>👐🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F64C</key>
+		<string>🙌</string>
+	</dict>
+	<dict>
+		<key>U+1F64C U+1F3FB</key>
+		<string>🙌🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F64C U+1F3FC</key>
+		<string>🙌🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F64C U+1F3FD</key>
+		<string>🙌🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F64C U+1F3FE</key>
+		<string>🙌🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F64C U+1F3FF</key>
+		<string>🙌🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F932</key>
+		<string>🤲</string>
+	</dict>
+	<dict>
+		<key>U+1F932 U+1F3FB</key>
+		<string>🤲🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F932 U+1F3FC</key>
+		<string>🤲🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F932 U+1F3FD</key>
+		<string>🤲🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F932 U+1F3FE</key>
+		<string>🤲🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F932 U+1F3FF</key>
+		<string>🤲🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F64F</key>
+		<string>🙏</string>
+	</dict>
+	<dict>
+		<key>U+1F64F U+1F3FB</key>
+		<string>🙏🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F64F U+1F3FC</key>
+		<string>🙏🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F64F U+1F3FD</key>
+		<string>🙏🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F64F U+1F3FE</key>
+		<string>🙏🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F64F U+1F3FF</key>
+		<string>🙏🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F91D</key>
+		<string>🤝</string>
+	</dict>
+	<dict>
+		<key>U+1F485</key>
+		<string>💅</string>
+	</dict>
+	<dict>
+		<key>U+1F485 U+1F3FB</key>
+		<string>💅🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F485 U+1F3FC</key>
+		<string>💅🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F485 U+1F3FD</key>
+		<string>💅🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F485 U+1F3FE</key>
+		<string>💅🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F485 U+1F3FF</key>
+		<string>💅🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F442</key>
+		<string>👂</string>
+	</dict>
+	<dict>
+		<key>U+1F442 U+1F3FB</key>
+		<string>👂🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F442 U+1F3FC</key>
+		<string>👂🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F442 U+1F3FD</key>
+		<string>👂🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F442 U+1F3FE</key>
+		<string>👂🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F442 U+1F3FF</key>
+		<string>👂🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F443</key>
+		<string>👃</string>
+	</dict>
+	<dict>
+		<key>U+1F443 U+1F3FB</key>
+		<string>👃🏻</string>
+	</dict>
+	<dict>
+		<key>U+1F443 U+1F3FC</key>
+		<string>👃🏼</string>
+	</dict>
+	<dict>
+		<key>U+1F443 U+1F3FD</key>
+		<string>👃🏽</string>
+	</dict>
+	<dict>
+		<key>U+1F443 U+1F3FE</key>
+		<string>👃🏾</string>
+	</dict>
+	<dict>
+		<key>U+1F443 U+1F3FF</key>
+		<string>👃🏿</string>
+	</dict>
+	<dict>
+		<key>U+1F463</key>
+		<string>👣</string>
+	</dict>
+	<dict>
+		<key>U+1F440</key>
+		<string>👀</string>
+	</dict>
+	<dict>
+		<key>U+1F441</key>
+		<string>👁</string>
+	</dict>
+	<dict>
+		<key>U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F</key>
+		<string>👁️‍🗨️</string>
+	</dict>
+	<dict>
+		<key>U+1F9E0</key>
+		<string>🧠</string>
+	</dict>
+	<dict>
+		<key>U+1F445</key>
+		<string>👅</string>
+	</dict>
+	<dict>
+		<key>U+1F444</key>
+		<string>👄</string>
+	</dict>
+	<dict>
+		<key>U+1F48B</key>
+		<string>💋</string>
+	</dict>
+	<dict>
+		<key>U+1F498</key>
+		<string>💘</string>
+	</dict>
+	<dict>
+		<key>U+2764</key>
+		<string>❤</string>
+	</dict>
+	<dict>
+		<key>U+1F493</key>
+		<string>💓</string>
+	</dict>
+	<dict>
+		<key>U+1F494</key>
+		<string>💔</string>
+	</dict>
+	<dict>
+		<key>U+1F495</key>
+		<string>💕</string>
+	</dict>
+	<dict>
+		<key>U+1F496</key>
+		<string>💖</string>
+	</dict>
+	<dict>
+		<key>U+1F497</key>
+		<string>💗</string>
+	</dict>
+	<dict>
+		<key>U+1F499</key>
+		<string>💙</string>
+	</dict>
+	<dict>
+		<key>U+1F49A</key>
+		<string>💚</string>
+	</dict>
+	<dict>
+		<key>U+1F49B</key>
+		<string>💛</string>
+	</dict>
+	<dict>
+		<key>U+1F9E1</key>
+		<string>🧡</string>
+	</dict>
+	<dict>
+		<key>U+1F49C</key>
+		<string>💜</string>
+	</dict>
+	<dict>
+		<key>U+1F5A4</key>
+		<string>🖤</string>
+	</dict>
+	<dict>
+		<key>U+1F49D</key>
+		<string>💝</string>
+	</dict>
+	<dict>
+		<key>U+1F49E</key>
+		<string>💞</string>
+	</dict>
+	<dict>
+		<key>U+1F49F</key>
+		<string>💟</string>
+	</dict>
+	<dict>
+		<key>U+2763</key>
+		<string>❣</string>
+	</dict>
+	<dict>
+		<key>U+1F48C</key>
+		<string>💌</string>
+	</dict>
+	<dict>
+		<key>U+1F4A4</key>
+		<string>💤</string>
+	</dict>
+	<dict>
+		<key>U+1F4A2</key>
+		<string>💢</string>
+	</dict>
+	<dict>
+		<key>U+1F4A3</key>
+		<string>💣</string>
+	</dict>
+	<dict>
+		<key>U+1F4A5</key>
+		<string>💥</string>
+	</dict>
+	<dict>
+		<key>U+1F4A6</key>
+		<string>💦</string>
+	</dict>
+	<dict>
+		<key>U+1F4A8</key>
+		<string>💨</string>
+	</dict>
+	<dict>
+		<key>U+1F4AB</key>
+		<string>💫</string>
+	</dict>
+	<dict>
+		<key>U+1F4AC</key>
+		<string>💬</string>
+	</dict>
+	<dict>
+		<key>U+1F5E8</key>
+		<string>🗨</string>
+	</dict>
+	<dict>
+		<key>U+1F5EF</key>
+		<string>🗯</string>
+	</dict>
+	<dict>
+		<key>U+1F4AD</key>
+		<string>💭</string>
+	</dict>
+	<dict>
+		<key>U+1F573</key>
+		<string>🕳</string>
+	</dict>
+	<dict>
+		<key>U+1F453</key>
+		<string>👓</string>
+	</dict>
+	<dict>
+		<key>U+1F576</key>
+		<string>🕶</string>
+	</dict>
+	<dict>
+		<key>U+1F454</key>
+		<string>👔</string>
+	</dict>
+	<dict>
+		<key>U+1F455</key>
+		<string>👕</string>
+	</dict>
+	<dict>
+		<key>U+1F456</key>
+		<string>👖</string>
+	</dict>
+	<dict>
+		<key>U+1F9E3</key>
+		<string>🧣</string>
+	</dict>
+	<dict>
+		<key>U+1F9E4</key>
+		<string>🧤</string>
+	</dict>
+	<dict>
+		<key>U+1F9E5</key>
+		<string>🧥</string>
+	</dict>
+	<dict>
+		<key>U+1F9E6</key>
+		<string>🧦</string>
+	</dict>
+	<dict>
+		<key>U+1F457</key>
+		<string>👗</string>
+	</dict>
+	<dict>
+		<key>U+1F458</key>
+		<string>👘</string>
+	</dict>
+	<dict>
+		<key>U+1F459</key>
+		<string>👙</string>
+	</dict>
+	<dict>
+		<key>U+1F45A</key>
+		<string>👚</string>
+	</dict>
+	<dict>
+		<key>U+1F45B</key>
+		<string>👛</string>
+	</dict>
+	<dict>
+		<key>U+1F45C</key>
+		<string>👜</string>
+	</dict>
+	<dict>
+		<key>U+1F45D</key>
+		<string>👝</string>
+	</dict>
+	<dict>
+		<key>U+1F6CD</key>
+		<string>🛍</string>
+	</dict>
+	<dict>
+		<key>U+1F392</key>
+		<string>🎒</string>
+	</dict>
+	<dict>
+		<key>U+1F45E</key>
+		<string>👞</string>
+	</dict>
+	<dict>
+		<key>U+1F45F</key>
+		<string>👟</string>
+	</dict>
+	<dict>
+		<key>U+1F460</key>
+		<string>👠</string>
+	</dict>
+	<dict>
+		<key>U+1F461</key>
+		<string>👡</string>
+	</dict>
+	<dict>
+		<key>U+1F462</key>
+		<string>👢</string>
+	</dict>
+	<dict>
+		<key>U+1F451</key>
+		<string>👑</string>
+	</dict>
+	<dict>
+		<key>U+1F452</key>
+		<string>👒</string>
+	</dict>
+	<dict>
+		<key>U+1F3A9</key>
+		<string>🎩</string>
+	</dict>
+	<dict>
+		<key>U+1F393</key>
+		<string>🎓</string>
+	</dict>
+	<dict>
+		<key>U+1F9E2</key>
+		<string>🧢</string>
+	</dict>
+	<dict>
+		<key>U+26D1</key>
+		<string>⛑</string>
+	</dict>
+	<dict>
+		<key>U+1F4FF</key>
+		<string>📿</string>
+	</dict>
+	<dict>
+		<key>U+1F484</key>
+		<string>💄</string>
+	</dict>
+	<dict>
+		<key>U+1F48D</key>
+		<string>💍</string>
+	</dict>
+	<dict>
+		<key>U+1F48E</key>
+		<string>💎</string>
+	</dict>
+	<dict>
+		<key>U+1F435</key>
+		<string>🐵</string>
+	</dict>
+	<dict>
+		<key>U+1F412</key>
+		<string>🐒</string>
+	</dict>
+	<dict>
+		<key>U+1F98D</key>
+		<string>🦍</string>
+	</dict>
+	<dict>
+		<key>U+1F436</key>
+		<string>🐶</string>
+	</dict>
+	<dict>
+		<key>U+1F415</key>
+		<string>🐕</string>
+	</dict>
+	<dict>
+		<key>U+1F429</key>
+		<string>🐩</string>
+	</dict>
+	<dict>
+		<key>U+1F43A</key>
+		<string>🐺</string>
+	</dict>
+	<dict>
+		<key>U+1F98A</key>
+		<string>🦊</string>
+	</dict>
+	<dict>
+		<key>U+1F431</key>
+		<string>🐱</string>
+	</dict>
+	<dict>
+		<key>U+1F408</key>
+		<string>🐈</string>
+	</dict>
+	<dict>
+		<key>U+1F981</key>
+		<string>🦁</string>
+	</dict>
+	<dict>
+		<key>U+1F42F</key>
+		<string>🐯</string>
+	</dict>
+	<dict>
+		<key>U+1F405</key>
+		<string>🐅</string>
+	</dict>
+	<dict>
+		<key>U+1F406</key>
+		<string>🐆</string>
+	</dict>
+	<dict>
+		<key>U+1F434</key>
+		<string>🐴</string>
+	</dict>
+	<dict>
+		<key>U+1F40E</key>
+		<string>🐎</string>
+	</dict>
+	<dict>
+		<key>U+1F984</key>
+		<string>🦄</string>
+	</dict>
+	<dict>
+		<key>U+1F993</key>
+		<string>🦓</string>
+	</dict>
+	<dict>
+		<key>U+1F98C</key>
+		<string>🦌</string>
+	</dict>
+	<dict>
+		<key>U+1F42E</key>
+		<string>🐮</string>
+	</dict>
+	<dict>
+		<key>U+1F402</key>
+		<string>🐂</string>
+	</dict>
+	<dict>
+		<key>U+1F403</key>
+		<string>🐃</string>
+	</dict>
+	<dict>
+		<key>U+1F404</key>
+		<string>🐄</string>
+	</dict>
+	<dict>
+		<key>U+1F437</key>
+		<string>🐷</string>
+	</dict>
+	<dict>
+		<key>U+1F416</key>
+		<string>🐖</string>
+	</dict>
+	<dict>
+		<key>U+1F417</key>
+		<string>🐗</string>
+	</dict>
+	<dict>
+		<key>U+1F43D</key>
+		<string>🐽</string>
+	</dict>
+	<dict>
+		<key>U+1F40F</key>
+		<string>🐏</string>
+	</dict>
+	<dict>
+		<key>U+1F411</key>
+		<string>🐑</string>
+	</dict>
+	<dict>
+		<key>U+1F410</key>
+		<string>🐐</string>
+	</dict>
+	<dict>
+		<key>U+1F42A</key>
+		<string>🐪</string>
+	</dict>
+	<dict>
+		<key>U+1F42B</key>
+		<string>🐫</string>
+	</dict>
+	<dict>
+		<key>U+1F992</key>
+		<string>🦒</string>
+	</dict>
+	<dict>
+		<key>U+1F418</key>
+		<string>🐘</string>
+	</dict>
+	<dict>
+		<key>U+1F98F</key>
+		<string>🦏</string>
+	</dict>
+	<dict>
+		<key>U+1F42D</key>
+		<string>🐭</string>
+	</dict>
+	<dict>
+		<key>U+1F401</key>
+		<string>🐁</string>
+	</dict>
+	<dict>
+		<key>U+1F400</key>
+		<string>🐀</string>
+	</dict>
+	<dict>
+		<key>U+1F439</key>
+		<string>🐹</string>
+	</dict>
+	<dict>
+		<key>U+1F430</key>
+		<string>🐰</string>
+	</dict>
+	<dict>
+		<key>U+1F407</key>
+		<string>🐇</string>
+	</dict>
+	<dict>
+		<key>U+1F43F</key>
+		<string>🐿</string>
+	</dict>
+	<dict>
+		<key>U+1F994</key>
+		<string>🦔</string>
+	</dict>
+	<dict>
+		<key>U+1F987</key>
+		<string>🦇</string>
+	</dict>
+	<dict>
+		<key>U+1F43B</key>
+		<string>🐻</string>
+	</dict>
+	<dict>
+		<key>U+1F428</key>
+		<string>🐨</string>
+	</dict>
+	<dict>
+		<key>U+1F43C</key>
+		<string>🐼</string>
+	</dict>
+	<dict>
+		<key>U+1F43E</key>
+		<string>🐾</string>
+	</dict>
+	<dict>
+		<key>U+1F983</key>
+		<string>🦃</string>
+	</dict>
+	<dict>
+		<key>U+1F414</key>
+		<string>🐔</string>
+	</dict>
+	<dict>
+		<key>U+1F413</key>
+		<string>🐓</string>
+	</dict>
+	<dict>
+		<key>U+1F423</key>
+		<string>🐣</string>
+	</dict>
+	<dict>
+		<key>U+1F424</key>
+		<string>🐤</string>
+	</dict>
+	<dict>
+		<key>U+1F425</key>
+		<string>🐥</string>
+	</dict>
+	<dict>
+		<key>U+1F426</key>
+		<string>🐦</string>
+	</dict>
+	<dict>
+		<key>U+1F427</key>
+		<string>🐧</string>
+	</dict>
+	<dict>
+		<key>U+1F54A</key>
+		<string>🕊</string>
+	</dict>
+	<dict>
+		<key>U+1F985</key>
+		<string>🦅</string>
+	</dict>
+	<dict>
+		<key>U+1F986</key>
+		<string>🦆</string>
+	</dict>
+	<dict>
+		<key>U+1F989</key>
+		<string>🦉</string>
+	</dict>
+	<dict>
+		<key>U+1F438</key>
+		<string>🐸</string>
+	</dict>
+	<dict>
+		<key>U+1F40A</key>
+		<string>🐊</string>
+	</dict>
+	<dict>
+		<key>U+1F422</key>
+		<string>🐢</string>
+	</dict>
+	<dict>
+		<key>U+1F98E</key>
+		<string>🦎</string>
+	</dict>
+	<dict>
+		<key>U+1F40D</key>
+		<string>🐍</string>
+	</dict>
+	<dict>
+		<key>U+1F432</key>
+		<string>🐲</string>
+	</dict>
+	<dict>
+		<key>U+1F409</key>
+		<string>🐉</string>
+	</dict>
+	<dict>
+		<key>U+1F995</key>
+		<string>🦕</string>
+	</dict>
+	<dict>
+		<key>U+1F996</key>
+		<string>🦖</string>
+	</dict>
+	<dict>
+		<key>U+1F433</key>
+		<string>🐳</string>
+	</dict>
+	<dict>
+		<key>U+1F40B</key>
+		<string>🐋</string>
+	</dict>
+	<dict>
+		<key>U+1F42C</key>
+		<string>🐬</string>
+	</dict>
+	<dict>
+		<key>U+1F41F</key>
+		<string>🐟</string>
+	</dict>
+	<dict>
+		<key>U+1F420</key>
+		<string>🐠</string>
+	</dict>
+	<dict>
+		<key>U+1F421</key>
+		<string>🐡</string>
+	</dict>
+	<dict>
+		<key>U+1F988</key>
+		<string>🦈</string>
+	</dict>
+	<dict>
+		<key>U+1F419</key>
+		<string>🐙</string>
+	</dict>
+	<dict>
+		<key>U+1F41A</key>
+		<string>🐚</string>
+	</dict>
+	<dict>
+		<key>U+1F980</key>
+		<string>🦀</string>
+	</dict>
+	<dict>
+		<key>U+1F990</key>
+		<string>🦐</string>
+	</dict>
+	<dict>
+		<key>U+1F991</key>
+		<string>🦑</string>
+	</dict>
+	<dict>
+		<key>U+1F40C</key>
+		<string>🐌</string>
+	</dict>
+	<dict>
+		<key>U+1F98B</key>
+		<string>🦋</string>
+	</dict>
+	<dict>
+		<key>U+1F41B</key>
+		<string>🐛</string>
+	</dict>
+	<dict>
+		<key>U+1F41C</key>
+		<string>🐜</string>
+	</dict>
+	<dict>
+		<key>U+1F41D</key>
+		<string>🐝</string>
+	</dict>
+	<dict>
+		<key>U+1F41E</key>
+		<string>🐞</string>
+	</dict>
+	<dict>
+		<key>U+1F997</key>
+		<string>🦗</string>
+	</dict>
+	<dict>
+		<key>U+1F577</key>
+		<string>🕷</string>
+	</dict>
+	<dict>
+		<key>U+1F578</key>
+		<string>🕸</string>
+	</dict>
+	<dict>
+		<key>U+1F982</key>
+		<string>🦂</string>
+	</dict>
+	<dict>
+		<key>U+1F490</key>
+		<string>💐</string>
+	</dict>
+	<dict>
+		<key>U+1F338</key>
+		<string>🌸</string>
+	</dict>
+	<dict>
+		<key>U+1F4AE</key>
+		<string>💮</string>
+	</dict>
+	<dict>
+		<key>U+1F3F5</key>
+		<string>🏵</string>
+	</dict>
+	<dict>
+		<key>U+1F339</key>
+		<string>🌹</string>
+	</dict>
+	<dict>
+		<key>U+1F940</key>
+		<string>🥀</string>
+	</dict>
+	<dict>
+		<key>U+1F33A</key>
+		<string>🌺</string>
+	</dict>
+	<dict>
+		<key>U+1F33B</key>
+		<string>🌻</string>
+	</dict>
+	<dict>
+		<key>U+1F33C</key>
+		<string>🌼</string>
+	</dict>
+	<dict>
+		<key>U+1F337</key>
+		<string>🌷</string>
+	</dict>
+	<dict>
+		<key>U+1F331</key>
+		<string>🌱</string>
+	</dict>
+	<dict>
+		<key>U+1F332</key>
+		<string>🌲</string>
+	</dict>
+	<dict>
+		<key>U+1F333</key>
+		<string>🌳</string>
+	</dict>
+	<dict>
+		<key>U+1F334</key>
+		<string>🌴</string>
+	</dict>
+	<dict>
+		<key>U+1F335</key>
+		<string>🌵</string>
+	</dict>
+	<dict>
+		<key>U+1F33E</key>
+		<string>🌾</string>
+	</dict>
+	<dict>
+		<key>U+1F33F</key>
+		<string>🌿</string>
+	</dict>
+	<dict>
+		<key>U+2618</key>
+		<string>☘</string>
+	</dict>
+	<dict>
+		<key>U+1F340</key>
+		<string>🍀</string>
+	</dict>
+	<dict>
+		<key>U+1F341</key>
+		<string>🍁</string>
+	</dict>
+	<dict>
+		<key>U+1F342</key>
+		<string>🍂</string>
+	</dict>
+	<dict>
+		<key>U+1F343</key>
+		<string>🍃</string>
+	</dict>
+	<dict>
+		<key>U+1F347</key>
+		<string>🍇</string>
+	</dict>
+	<dict>
+		<key>U+1F348</key>
+		<string>🍈</string>
+	</dict>
+	<dict>
+		<key>U+1F349</key>
+		<string>🍉</string>
+	</dict>
+	<dict>
+		<key>U+1F34A</key>
+		<string>🍊</string>
+	</dict>
+	<dict>
+		<key>U+1F34B</key>
+		<string>🍋</string>
+	</dict>
+	<dict>
+		<key>U+1F34C</key>
+		<string>🍌</string>
+	</dict>
+	<dict>
+		<key>U+1F34D</key>
+		<string>🍍</string>
+	</dict>
+	<dict>
+		<key>U+1F34E</key>
+		<string>🍎</string>
+	</dict>
+	<dict>
+		<key>U+1F34F</key>
+		<string>🍏</string>
+	</dict>
+	<dict>
+		<key>U+1F350</key>
+		<string>🍐</string>
+	</dict>
+	<dict>
+		<key>U+1F351</key>
+		<string>🍑</string>
+	</dict>
+	<dict>
+		<key>U+1F352</key>
+		<string>🍒</string>
+	</dict>
+	<dict>
+		<key>U+1F353</key>
+		<string>🍓</string>
+	</dict>
+	<dict>
+		<key>U+1F95D</key>
+		<string>🥝</string>
+	</dict>
+	<dict>
+		<key>U+1F345</key>
+		<string>🍅</string>
+	</dict>
+	<dict>
+		<key>U+1F965</key>
+		<string>🥥</string>
+	</dict>
+	<dict>
+		<key>U+1F951</key>
+		<string>🥑</string>
+	</dict>
+	<dict>
+		<key>U+1F346</key>
+		<string>🍆</string>
+	</dict>
+	<dict>
+		<key>U+1F954</key>
+		<string>🥔</string>
+	</dict>
+	<dict>
+		<key>U+1F955</key>
+		<string>🥕</string>
+	</dict>
+	<dict>
+		<key>U+1F33D</key>
+		<string>🌽</string>
+	</dict>
+	<dict>
+		<key>U+1F336</key>
+		<string>🌶</string>
+	</dict>
+	<dict>
+		<key>U+1F952</key>
+		<string>🥒</string>
+	</dict>
+	<dict>
+		<key>U+1F966</key>
+		<string>🥦</string>
+	</dict>
+	<dict>
+		<key>U+1F344</key>
+		<string>🍄</string>
+	</dict>
+	<dict>
+		<key>U+1F95C</key>
+		<string>🥜</string>
+	</dict>
+	<dict>
+		<key>U+1F330</key>
+		<string>🌰</string>
+	</dict>
+	<dict>
+		<key>U+1F35E</key>
+		<string>🍞</string>
+	</dict>
+	<dict>
+		<key>U+1F950</key>
+		<string>🥐</string>
+	</dict>
+	<dict>
+		<key>U+1F956</key>
+		<string>🥖</string>
+	</dict>
+	<dict>
+		<key>U+1F968</key>
+		<string>🥨</string>
+	</dict>
+	<dict>
+		<key>U+1F95E</key>
+		<string>🥞</string>
+	</dict>
+	<dict>
+		<key>U+1F9C0</key>
+		<string>🧀</string>
+	</dict>
+	<dict>
+		<key>U+1F356</key>
+		<string>🍖</string>
+	</dict>
+	<dict>
+		<key>U+1F357</key>
+		<string>🍗</string>
+	</dict>
+	<dict>
+		<key>U+1F969</key>
+		<string>🥩</string>
+	</dict>
+	<dict>
+		<key>U+1F953</key>
+		<string>🥓</string>
+	</dict>
+	<dict>
+		<key>U+1F354</key>
+		<string>🍔</string>
+	</dict>
+	<dict>
+		<key>U+1F35F</key>
+		<string>🍟</string>
+	</dict>
+	<dict>
+		<key>U+1F355</key>
+		<string>🍕</string>
+	</dict>
+	<dict>
+		<key>U+1F32D</key>
+		<string>🌭</string>
+	</dict>
+	<dict>
+		<key>U+1F96A</key>
+		<string>🥪</string>
+	</dict>
+	<dict>
+		<key>U+1F32E</key>
+		<string>🌮</string>
+	</dict>
+	<dict>
+		<key>U+1F32F</key>
+		<string>🌯</string>
+	</dict>
+	<dict>
+		<key>U+1F959</key>
+		<string>🥙</string>
+	</dict>
+	<dict>
+		<key>U+1F95A</key>
+		<string>🥚</string>
+	</dict>
+	<dict>
+		<key>U+1F373</key>
+		<string>🍳</string>
+	</dict>
+	<dict>
+		<key>U+1F958</key>
+		<string>🥘</string>
+	</dict>
+	<dict>
+		<key>U+1F372</key>
+		<string>🍲</string>
+	</dict>
+	<dict>
+		<key>U+1F963</key>
+		<string>🥣</string>
+	</dict>
+	<dict>
+		<key>U+1F957</key>
+		<string>🥗</string>
+	</dict>
+	<dict>
+		<key>U+1F37F</key>
+		<string>🍿</string>
+	</dict>
+	<dict>
+		<key>U+1F96B</key>
+		<string>🥫</string>
+	</dict>
+	<dict>
+		<key>U+1F371</key>
+		<string>🍱</string>
+	</dict>
+	<dict>
+		<key>U+1F358</key>
+		<string>🍘</string>
+	</dict>
+	<dict>
+		<key>U+1F359</key>
+		<string>🍙</string>
+	</dict>
+	<dict>
+		<key>U+1F35A</key>
+		<string>🍚</string>
+	</dict>
+	<dict>
+		<key>U+1F35B</key>
+		<string>🍛</string>
+	</dict>
+	<dict>
+		<key>U+1F35C</key>
+		<string>🍜</string>
+	</dict>
+	<dict>
+		<key>U+1F35D</key>
+		<string>🍝</string>
+	</dict>
+	<dict>
+		<key>U+1F360</key>
+		<string>🍠</string>
+	</dict>
+	<dict>
+		<key>U+1F362</key>
+		<string>🍢</string>
+	</dict>
+	<dict>
+		<key>U+1F363</key>
+		<string>🍣</string>
+	</dict>
+	<dict>
+		<key>U+1F364</key>
+		<string>🍤</string>
+	</dict>
+	<dict>
+		<key>U+1F365</key>
+		<string>🍥</string>
+	</dict>
+	<dict>
+		<key>U+1F361</key>
+		<string>🍡</string>
+	</dict>
+	<dict>
+		<key>U+1F95F</key>
+		<string>🥟</string>
+	</dict>
+	<dict>
+		<key>U+1F960</key>
+		<string>🥠</string>
+	</dict>
+	<dict>
+		<key>U+1F961</key>
+		<string>🥡</string>
+	</dict>
+	<dict>
+		<key>U+1F366</key>
+		<string>🍦</string>
+	</dict>
+	<dict>
+		<key>U+1F367</key>
+		<string>🍧</string>
+	</dict>
+	<dict>
+		<key>U+1F368</key>
+		<string>🍨</string>
+	</dict>
+	<dict>
+		<key>U+1F369</key>
+		<string>🍩</string>
+	</dict>
+	<dict>
+		<key>U+1F36A</key>
+		<string>🍪</string>
+	</dict>
+	<dict>
+		<key>U+1F382</key>
+		<string>🎂</string>
+	</dict>
+	<dict>
+		<key>U+1F370</key>
+		<string>🍰</string>
+	</dict>
+	<dict>
+		<key>U+1F967</key>
+		<string>🥧</string>
+	</dict>
+	<dict>
+		<key>U+1F36B</key>
+		<string>🍫</string>
+	</dict>
+	<dict>
+		<key>U+1F36C</key>
+		<string>🍬</string>
+	</dict>
+	<dict>
+		<key>U+1F36D</key>
+		<string>🍭</string>
+	</dict>
+	<dict>
+		<key>U+1F36E</key>
+		<string>🍮</string>
+	</dict>
+	<dict>
+		<key>U+1F36F</key>
+		<string>🍯</string>
+	</dict>
+	<dict>
+		<key>U+1F37C</key>
+		<string>🍼</string>
+	</dict>
+	<dict>
+		<key>U+1F95B</key>
+		<string>🥛</string>
+	</dict>
+	<dict>
+		<key>U+2615</key>
+		<string>☕</string>
+	</dict>
+	<dict>
+		<key>U+1F375</key>
+		<string>🍵</string>
+	</dict>
+	<dict>
+		<key>U+1F376</key>
+		<string>🍶</string>
+	</dict>
+	<dict>
+		<key>U+1F37E</key>
+		<string>🍾</string>
+	</dict>
+	<dict>
+		<key>U+1F377</key>
+		<string>🍷</string>
+	</dict>
+	<dict>
+		<key>U+1F378</key>
+		<string>🍸</string>
+	</dict>
+	<dict>
+		<key>U+1F379</key>
+		<string>🍹</string>
+	</dict>
+	<dict>
+		<key>U+1F37A</key>
+		<string>🍺</string>
+	</dict>
+	<dict>
+		<key>U+1F37B</key>
+		<string>🍻</string>
+	</dict>
+	<dict>
+		<key>U+1F942</key>
+		<string>🥂</string>
+	</dict>
+	<dict>
+		<key>U+1F943</key>
+		<string>🥃</string>
+	</dict>
+	<dict>
+		<key>U+1F964</key>
+		<string>🥤</string>
+	</dict>
+	<dict>
+		<key>U+1F962</key>
+		<string>🥢</string>
+	</dict>
+	<dict>
+		<key>U+1F37D</key>
+		<string>🍽</string>
+	</dict>
+	<dict>
+		<key>U+1F374</key>
+		<string>🍴</string>
+	</dict>
+	<dict>
+		<key>U+1F944</key>
+		<string>🥄</string>
+	</dict>
+	<dict>
+		<key>U+1F52A</key>
+		<string>🔪</string>
+	</dict>
+	<dict>
+		<key>U+1F3FA</key>
+		<string>🏺</string>
+	</dict>
+	<dict>
+		<key>U+1F30D</key>
+		<string>🌍</string>
+	</dict>
+	<dict>
+		<key>U+1F30E</key>
+		<string>🌎</string>
+	</dict>
+	<dict>
+		<key>U+1F30F</key>
+		<string>🌏</string>
+	</dict>
+	<dict>
+		<key>U+1F310</key>
+		<string>🌐</string>
+	</dict>
+	<dict>
+		<key>U+1F5FA</key>
+		<string>🗺</string>
+	</dict>
+	<dict>
+		<key>U+1F5FE</key>
+		<string>🗾</string>
+	</dict>
+	<dict>
+		<key>U+1F3D4</key>
+		<string>🏔</string>
+	</dict>
+	<dict>
+		<key>U+26F0</key>
+		<string>⛰</string>
+	</dict>
+	<dict>
+		<key>U+1F30B</key>
+		<string>🌋</string>
+	</dict>
+	<dict>
+		<key>U+1F5FB</key>
+		<string>🗻</string>
+	</dict>
+	<dict>
+		<key>U+1F3D5</key>
+		<string>🏕</string>
+	</dict>
+	<dict>
+		<key>U+1F3D6</key>
+		<string>🏖</string>
+	</dict>
+	<dict>
+		<key>U+1F3DC</key>
+		<string>🏜</string>
+	</dict>
+	<dict>
+		<key>U+1F3DD</key>
+		<string>🏝</string>
+	</dict>
+	<dict>
+		<key>U+1F3DE</key>
+		<string>🏞</string>
+	</dict>
+	<dict>
+		<key>U+1F3DF</key>
+		<string>🏟</string>
+	</dict>
+	<dict>
+		<key>U+1F3DB</key>
+		<string>🏛</string>
+	</dict>
+	<dict>
+		<key>U+1F3D7</key>
+		<string>🏗</string>
+	</dict>
+	<dict>
+		<key>U+1F3D8</key>
+		<string>🏘</string>
+	</dict>
+	<dict>
+		<key>U+1F3D9</key>
+		<string>🏙</string>
+	</dict>
+	<dict>
+		<key>U+1F3DA</key>
+		<string>🏚</string>
+	</dict>
+	<dict>
+		<key>U+1F3E0</key>
+		<string>🏠</string>
+	</dict>
+	<dict>
+		<key>U+1F3E1</key>
+		<string>🏡</string>
+	</dict>
+	<dict>
+		<key>U+1F3E2</key>
+		<string>🏢</string>
+	</dict>
+	<dict>
+		<key>U+1F3E3</key>
+		<string>🏣</string>
+	</dict>
+	<dict>
+		<key>U+1F3E4</key>
+		<string>🏤</string>
+	</dict>
+	<dict>
+		<key>U+1F3E5</key>
+		<string>🏥</string>
+	</dict>
+	<dict>
+		<key>U+1F3E6</key>
+		<string>🏦</string>
+	</dict>
+	<dict>
+		<key>U+1F3E8</key>
+		<string>🏨</string>
+	</dict>
+	<dict>
+		<key>U+1F3E9</key>
+		<string>🏩</string>
+	</dict>
+	<dict>
+		<key>U+1F3EA</key>
+		<string>🏪</string>
+	</dict>
+	<dict>
+		<key>U+1F3EB</key>
+		<string>🏫</string>
+	</dict>
+	<dict>
+		<key>U+1F3EC</key>
+		<string>🏬</string>
+	</dict>
+	<dict>
+		<key>U+1F3ED</key>
+		<string>🏭</string>
+	</dict>
+	<dict>
+		<key>U+1F3EF</key>
+		<string>🏯</string>
+	</dict>
+	<dict>
+		<key>U+1F3F0</key>
+		<string>🏰</string>
+	</dict>
+	<dict>
+		<key>U+1F492</key>
+		<string>💒</string>
+	</dict>
+	<dict>
+		<key>U+1F5FC</key>
+		<string>🗼</string>
+	</dict>
+	<dict>
+		<key>U+1F5FD</key>
+		<string>🗽</string>
+	</dict>
+	<dict>
+		<key>U+26EA</key>
+		<string>⛪</string>
+	</dict>
+	<dict>
+		<key>U+1F54C</key>
+		<string>🕌</string>
+	</dict>
+	<dict>
+		<key>U+1F54D</key>
+		<string>🕍</string>
+	</dict>
+	<dict>
+		<key>U+26E9</key>
+		<string>⛩</string>
+	</dict>
+	<dict>
+		<key>U+1F54B</key>
+		<string>🕋</string>
+	</dict>
+	<dict>
+		<key>U+26F2</key>
+		<string>⛲</string>
+	</dict>
+	<dict>
+		<key>U+26FA</key>
+		<string>⛺</string>
+	</dict>
+	<dict>
+		<key>U+1F301</key>
+		<string>🌁</string>
+	</dict>
+	<dict>
+		<key>U+1F303</key>
+		<string>🌃</string>
+	</dict>
+	<dict>
+		<key>U+1F304</key>
+		<string>🌄</string>
+	</dict>
+	<dict>
+		<key>U+1F305</key>
+		<string>🌅</string>
+	</dict>
+	<dict>
+		<key>U+1F306</key>
+		<string>🌆</string>
+	</dict>
+	<dict>
+		<key>U+1F307</key>
+		<string>🌇</string>
+	</dict>
+	<dict>
+		<key>U+1F309</key>
+		<string>🌉</string>
+	</dict>
+	<dict>
+		<key>U+2668</key>
+		<string>♨</string>
+	</dict>
+	<dict>
+		<key>U+1F30C</key>
+		<string>🌌</string>
+	</dict>
+	<dict>
+		<key>U+1F3A0</key>
+		<string>🎠</string>
+	</dict>
+	<dict>
+		<key>U+1F3A1</key>
+		<string>🎡</string>
+	</dict>
+	<dict>
+		<key>U+1F3A2</key>
+		<string>🎢</string>
+	</dict>
+	<dict>
+		<key>U+1F488</key>
+		<string>💈</string>
+	</dict>
+	<dict>
+		<key>U+1F3AA</key>
+		<string>🎪</string>
+	</dict>
+	<dict>
+		<key>U+1F3AD</key>
+		<string>🎭</string>
+	</dict>
+	<dict>
+		<key>U+1F5BC</key>
+		<string>🖼</string>
+	</dict>
+	<dict>
+		<key>U+1F3A8</key>
+		<string>🎨</string>
+	</dict>
+	<dict>
+		<key>U+1F3B0</key>
+		<string>🎰</string>
+	</dict>
+	<dict>
+		<key>U+1F682</key>
+		<string>🚂</string>
+	</dict>
+	<dict>
+		<key>U+1F683</key>
+		<string>🚃</string>
+	</dict>
+	<dict>
+		<key>U+1F684</key>
+		<string>🚄</string>
+	</dict>
+	<dict>
+		<key>U+1F685</key>
+		<string>🚅</string>
+	</dict>
+	<dict>
+		<key>U+1F686</key>
+		<string>🚆</string>
+	</dict>
+	<dict>
+		<key>U+1F687</key>
+		<string>🚇</string>
+	</dict>
+	<dict>
+		<key>U+1F688</key>
+		<string>🚈</string>
+	</dict>
+	<dict>
+		<key>U+1F689</key>
+		<string>🚉</string>
+	</dict>
+	<dict>
+		<key>U+1F68A</key>
+		<string>🚊</string>
+	</dict>
+	<dict>
+		<key>U+1F69D</key>
+		<string>🚝</string>
+	</dict>
+	<dict>
+		<key>U+1F69E</key>
+		<string>🚞</string>
+	</dict>
+	<dict>
+		<key>U+1F68B</key>
+		<string>🚋</string>
+	</dict>
+	<dict>
+		<key>U+1F68C</key>
+		<string>🚌</string>
+	</dict>
+	<dict>
+		<key>U+1F68D</key>
+		<string>🚍</string>
+	</dict>
+	<dict>
+		<key>U+1F68E</key>
+		<string>🚎</string>
+	</dict>
+	<dict>
+		<key>U+1F690</key>
+		<string>🚐</string>
+	</dict>
+	<dict>
+		<key>U+1F691</key>
+		<string>🚑</string>
+	</dict>
+	<dict>
+		<key>U+1F692</key>
+		<string>🚒</string>
+	</dict>
+	<dict>
+		<key>U+1F693</key>
+		<string>🚓</string>
+	</dict>
+	<dict>
+		<key>U+1F694</key>
+		<string>🚔</string>
+	</dict>
+	<dict>
+		<key>U+1F695</key>
+		<string>🚕</string>
+	</dict>
+	<dict>
+		<key>U+1F696</key>
+		<string>🚖</string>
+	</dict>
+	<dict>
+		<key>U+1F697</key>
+		<string>🚗</string>
+	</dict>
+	<dict>
+		<key>U+1F698</key>
+		<string>🚘</string>
+	</dict>
+	<dict>
+		<key>U+1F699</key>
+		<string>🚙</string>
+	</dict>
+	<dict>
+		<key>U+1F69A</key>
+		<string>🚚</string>
+	</dict>
+	<dict>
+		<key>U+1F69B</key>
+		<string>🚛</string>
+	</dict>
+	<dict>
+		<key>U+1F69C</key>
+		<string>🚜</string>
+	</dict>
+	<dict>
+		<key>U+1F6B2</key>
+		<string>🚲</string>
+	</dict>
+	<dict>
+		<key>U+1F6F4</key>
+		<string>🛴</string>
+	</dict>
+	<dict>
+		<key>U+1F6F5</key>
+		<string>🛵</string>
+	</dict>
+	<dict>
+		<key>U+1F68F</key>
+		<string>🚏</string>
+	</dict>
+	<dict>
+		<key>U+1F6E3</key>
+		<string>🛣</string>
+	</dict>
+	<dict>
+		<key>U+1F6E4</key>
+		<string>🛤</string>
+	</dict>
+	<dict>
+		<key>U+26FD</key>
+		<string>⛽</string>
+	</dict>
+	<dict>
+		<key>U+1F6A8</key>
+		<string>🚨</string>
+	</dict>
+	<dict>
+		<key>U+1F6A5</key>
+		<string>🚥</string>
+	</dict>
+	<dict>
+		<key>U+1F6A6</key>
+		<string>🚦</string>
+	</dict>
+	<dict>
+		<key>U+1F6A7</key>
+		<string>🚧</string>
+	</dict>
+	<dict>
+		<key>U+1F6D1</key>
+		<string>🛑</string>
+	</dict>
+	<dict>
+		<key>U+2693</key>
+		<string>⚓</string>
+	</dict>
+	<dict>
+		<key>U+26F5</key>
+		<string>⛵</string>
+	</dict>
+	<dict>
+		<key>U+1F6F6</key>
+		<string>🛶</string>
+	</dict>
+	<dict>
+		<key>U+1F6A4</key>
+		<string>🚤</string>
+	</dict>
+	<dict>
+		<key>U+1F6F3</key>
+		<string>🛳</string>
+	</dict>
+	<dict>
+		<key>U+26F4</key>
+		<string>⛴</string>
+	</dict>
+	<dict>
+		<key>U+1F6E5</key>
+		<string>🛥</string>
+	</dict>
+	<dict>
+		<key>U+1F6A2</key>
+		<string>🚢</string>
+	</dict>
+	<dict>
+		<key>U+2708</key>
+		<string>✈</string>
+	</dict>
+	<dict>
+		<key>U+1F6E9</key>
+		<string>🛩</string>
+	</dict>
+	<dict>
+		<key>U+1F6EB</key>
+		<string>🛫</string>
+	</dict>
+	<dict>
+		<key>U+1F6EC</key>
+		<string>🛬</string>
+	</dict>
+	<dict>
+		<key>U+1F4BA</key>
+		<string>💺</string>
+	</dict>
+	<dict>
+		<key>U+1F681</key>
+		<string>🚁</string>
+	</dict>
+	<dict>
+		<key>U+1F69F</key>
+		<string>🚟</string>
+	</dict>
+	<dict>
+		<key>U+1F6A0</key>
+		<string>🚠</string>
+	</dict>
+	<dict>
+		<key>U+1F6A1</key>
+		<string>🚡</string>
+	</dict>
+	<dict>
+		<key>U+1F6F0</key>
+		<string>🛰</string>
+	</dict>
+	<dict>
+		<key>U+1F680</key>
+		<string>🚀</string>
+	</dict>
+	<dict>
+		<key>U+1F6F8</key>
+		<string>🛸</string>
+	</dict>
+	<dict>
+		<key>U+1F6CE</key>
+		<string>🛎</string>
+	</dict>
+	<dict>
+		<key>U+1F6AA</key>
+		<string>🚪</string>
+	</dict>
+	<dict>
+		<key>U+1F6CF</key>
+		<string>🛏</string>
+	</dict>
+	<dict>
+		<key>U+1F6CB</key>
+		<string>🛋</string>
+	</dict>
+	<dict>
+		<key>U+1F6BD</key>
+		<string>🚽</string>
+	</dict>
+	<dict>
+		<key>U+1F6BF</key>
+		<string>🚿</string>
+	</dict>
+	<dict>
+		<key>U+1F6C1</key>
+		<string>🛁</string>
+	</dict>
+	<dict>
+		<key>U+231B</key>
+		<string>⌛</string>
+	</dict>
+	<dict>
+		<key>U+23F3</key>
+		<string>⏳</string>
+	</dict>
+	<dict>
+		<key>U+231A</key>
+		<string>⌚</string>
+	</dict>
+	<dict>
+		<key>U+23F0</key>
+		<string>⏰</string>
+	</dict>
+	<dict>
+		<key>U+23F1</key>
+		<string>⏱</string>
+	</dict>
+	<dict>
+		<key>U+23F2</key>
+		<string>⏲</string>
+	</dict>
+	<dict>
+		<key>U+1F570</key>
+		<string>🕰</string>
+	</dict>
+	<dict>
+		<key>U+1F55B</key>
+		<string>🕛</string>
+	</dict>
+	<dict>
+		<key>U+1F567</key>
+		<string>🕧</string>
+	</dict>
+	<dict>
+		<key>U+1F550</key>
+		<string>🕐</string>
+	</dict>
+	<dict>
+		<key>U+1F55C</key>
+		<string>🕜</string>
+	</dict>
+	<dict>
+		<key>U+1F551</key>
+		<string>🕑</string>
+	</dict>
+	<dict>
+		<key>U+1F55D</key>
+		<string>🕝</string>
+	</dict>
+	<dict>
+		<key>U+1F552</key>
+		<string>🕒</string>
+	</dict>
+	<dict>
+		<key>U+1F55E</key>
+		<string>🕞</string>
+	</dict>
+	<dict>
+		<key>U+1F553</key>
+		<string>🕓</string>
+	</dict>
+	<dict>
+		<key>U+1F55F</key>
+		<string>🕟</string>
+	</dict>
+	<dict>
+		<key>U+1F554</key>
+		<string>🕔</string>
+	</dict>
+	<dict>
+		<key>U+1F560</key>
+		<string>🕠</string>
+	</dict>
+	<dict>
+		<key>U+1F555</key>
+		<string>🕕</string>
+	</dict>
+	<dict>
+		<key>U+1F561</key>
+		<string>🕡</string>
+	</dict>
+	<dict>
+		<key>U+1F556</key>
+		<string>🕖</string>
+	</dict>
+	<dict>
+		<key>U+1F562</key>
+		<string>🕢</string>
+	</dict>
+	<dict>
+		<key>U+1F557</key>
+		<string>🕗</string>
+	</dict>
+	<dict>
+		<key>U+1F563</key>
+		<string>🕣</string>
+	</dict>
+	<dict>
+		<key>U+1F558</key>
+		<string>🕘</string>
+	</dict>
+	<dict>
+		<key>U+1F564</key>
+		<string>🕤</string>
+	</dict>
+	<dict>
+		<key>U+1F559</key>
+		<string>🕙</string>
+	</dict>
+	<dict>
+		<key>U+1F565</key>
+		<string>🕥</string>
+	</dict>
+	<dict>
+		<key>U+1F55A</key>
+		<string>🕚</string>
+	</dict>
+	<dict>
+		<key>U+1F566</key>
+		<string>🕦</string>
+	</dict>
+	<dict>
+		<key>U+1F311</key>
+		<string>🌑</string>
+	</dict>
+	<dict>
+		<key>U+1F312</key>
+		<string>🌒</string>
+	</dict>
+	<dict>
+		<key>U+1F313</key>
+		<string>🌓</string>
+	</dict>
+	<dict>
+		<key>U+1F314</key>
+		<string>🌔</string>
+	</dict>
+	<dict>
+		<key>U+1F315</key>
+		<string>🌕</string>
+	</dict>
+	<dict>
+		<key>U+1F316</key>
+		<string>🌖</string>
+	</dict>
+	<dict>
+		<key>U+1F317</key>
+		<string>🌗</string>
+	</dict>
+	<dict>
+		<key>U+1F318</key>
+		<string>🌘</string>
+	</dict>
+	<dict>
+		<key>U+1F319</key>
+		<string>🌙</string>
+	</dict>
+	<dict>
+		<key>U+1F31A</key>
+		<string>🌚</string>
+	</dict>
+	<dict>
+		<key>U+1F31B</key>
+		<string>🌛</string>
+	</dict>
+	<dict>
+		<key>U+1F31C</key>
+		<string>🌜</string>
+	</dict>
+	<dict>
+		<key>U+1F321</key>
+		<string>🌡</string>
+	</dict>
+	<dict>
+		<key>U+2600</key>
+		<string>☀</string>
+	</dict>
+	<dict>
+		<key>U+1F31D</key>
+		<string>🌝</string>
+	</dict>
+	<dict>
+		<key>U+1F31E</key>
+		<string>🌞</string>
+	</dict>
+	<dict>
+		<key>U+2B50</key>
+		<string>⭐</string>
+	</dict>
+	<dict>
+		<key>U+1F31F</key>
+		<string>🌟</string>
+	</dict>
+	<dict>
+		<key>U+1F320</key>
+		<string>🌠</string>
+	</dict>
+	<dict>
+		<key>U+2601</key>
+		<string>☁</string>
+	</dict>
+	<dict>
+		<key>U+26C5</key>
+		<string>⛅</string>
+	</dict>
+	<dict>
+		<key>U+26C8</key>
+		<string>⛈</string>
+	</dict>
+	<dict>
+		<key>U+1F324</key>
+		<string>🌤</string>
+	</dict>
+	<dict>
+		<key>U+1F325</key>
+		<string>🌥</string>
+	</dict>
+	<dict>
+		<key>U+1F326</key>
+		<string>🌦</string>
+	</dict>
+	<dict>
+		<key>U+1F327</key>
+		<string>🌧</string>
+	</dict>
+	<dict>
+		<key>U+1F328</key>
+		<string>🌨</string>
+	</dict>
+	<dict>
+		<key>U+1F329</key>
+		<string>🌩</string>
+	</dict>
+	<dict>
+		<key>U+1F32A</key>
+		<string>🌪</string>
+	</dict>
+	<dict>
+		<key>U+1F32B</key>
+		<string>🌫</string>
+	</dict>
+	<dict>
+		<key>U+1F32C</key>
+		<string>🌬</string>
+	</dict>
+	<dict>
+		<key>U+1F300</key>
+		<string>🌀</string>
+	</dict>
+	<dict>
+		<key>U+1F308</key>
+		<string>🌈</string>
+	</dict>
+	<dict>
+		<key>U+1F302</key>
+		<string>🌂</string>
+	</dict>
+	<dict>
+		<key>U+2602</key>
+		<string>☂</string>
+	</dict>
+	<dict>
+		<key>U+2614</key>
+		<string>☔</string>
+	</dict>
+	<dict>
+		<key>U+26F1</key>
+		<string>⛱</string>
+	</dict>
+	<dict>
+		<key>U+26A1</key>
+		<string>⚡</string>
+	</dict>
+	<dict>
+		<key>U+2744</key>
+		<string>❄</string>
+	</dict>
+	<dict>
+		<key>U+2603</key>
+		<string>☃</string>
+	</dict>
+	<dict>
+		<key>U+26C4</key>
+		<string>⛄</string>
+	</dict>
+	<dict>
+		<key>U+2604</key>
+		<string>☄</string>
+	</dict>
+	<dict>
+		<key>U+1F525</key>
+		<string>🔥</string>
+	</dict>
+	<dict>
+		<key>U+1F4A7</key>
+		<string>💧</string>
+	</dict>
+	<dict>
+		<key>U+1F30A</key>
+		<string>🌊</string>
+	</dict>
+	<dict>
+		<key>U+1F383</key>
+		<string>🎃</string>
+	</dict>
+	<dict>
+		<key>U+1F384</key>
+		<string>🎄</string>
+	</dict>
+	<dict>
+		<key>U+1F386</key>
+		<string>🎆</string>
+	</dict>
+	<dict>
+		<key>U+1F387</key>
+		<string>🎇</string>
+	</dict>
+	<dict>
+		<key>U+2728</key>
+		<string>✨</string>
+	</dict>
+	<dict>
+		<key>U+1F388</key>
+		<string>🎈</string>
+	</dict>
+	<dict>
+		<key>U+1F389</key>
+		<string>🎉</string>
+	</dict>
+	<dict>
+		<key>U+1F38A</key>
+		<string>🎊</string>
+	</dict>
+	<dict>
+		<key>U+1F38B</key>
+		<string>🎋</string>
+	</dict>
+	<dict>
+		<key>U+1F38D</key>
+		<string>🎍</string>
+	</dict>
+	<dict>
+		<key>U+1F38E</key>
+		<string>🎎</string>
+	</dict>
+	<dict>
+		<key>U+1F38F</key>
+		<string>🎏</string>
+	</dict>
+	<dict>
+		<key>U+1F390</key>
+		<string>🎐</string>
+	</dict>
+	<dict>
+		<key>U+1F391</key>
+		<string>🎑</string>
+	</dict>
+	<dict>
+		<key>U+1F380</key>
+		<string>🎀</string>
+	</dict>
+	<dict>
+		<key>U+1F381</key>
+		<string>🎁</string>
+	</dict>
+	<dict>
+		<key>U+1F397</key>
+		<string>🎗</string>
+	</dict>
+	<dict>
+		<key>U+1F39F</key>
+		<string>🎟</string>
+	</dict>
+	<dict>
+		<key>U+1F3AB</key>
+		<string>🎫</string>
+	</dict>
+	<dict>
+		<key>U+1F396</key>
+		<string>🎖</string>
+	</dict>
+	<dict>
+		<key>U+1F3C6</key>
+		<string>🏆</string>
+	</dict>
+	<dict>
+		<key>U+1F3C5</key>
+		<string>🏅</string>
+	</dict>
+	<dict>
+		<key>U+1F947</key>
+		<string>🥇</string>
+	</dict>
+	<dict>
+		<key>U+1F948</key>
+		<string>🥈</string>
+	</dict>
+	<dict>
+		<key>U+1F949</key>
+		<string>🥉</string>
+	</dict>
+	<dict>
+		<key>U+26BD</key>
+		<string>⚽</string>
+	</dict>
+	<dict>
+		<key>U+26BE</key>
+		<string>⚾</string>
+	</dict>
+	<dict>
+		<key>U+1F3C0</key>
+		<string>🏀</string>
+	</dict>
+	<dict>
+		<key>U+1F3D0</key>
+		<string>🏐</string>
+	</dict>
+	<dict>
+		<key>U+1F3C8</key>
+		<string>🏈</string>
+	</dict>
+	<dict>
+		<key>U+1F3C9</key>
+		<string>🏉</string>
+	</dict>
+	<dict>
+		<key>U+1F3BE</key>
+		<string>🎾</string>
+	</dict>
+	<dict>
+		<key>U+1F3B1</key>
+		<string>🎱</string>
+	</dict>
+	<dict>
+		<key>U+1F3B3</key>
+		<string>🎳</string>
+	</dict>
+	<dict>
+		<key>U+1F3CF</key>
+		<string>🏏</string>
+	</dict>
+	<dict>
+		<key>U+1F3D1</key>
+		<string>🏑</string>
+	</dict>
+	<dict>
+		<key>U+1F3D2</key>
+		<string>🏒</string>
+	</dict>
+	<dict>
+		<key>U+1F3D3</key>
+		<string>🏓</string>
+	</dict>
+	<dict>
+		<key>U+1F3F8</key>
+		<string>🏸</string>
+	</dict>
+	<dict>
+		<key>U+1F94A</key>
+		<string>🥊</string>
+	</dict>
+	<dict>
+		<key>U+1F94B</key>
+		<string>🥋</string>
+	</dict>
+	<dict>
+		<key>U+1F945</key>
+		<string>🥅</string>
+	</dict>
+	<dict>
+		<key>U+1F3AF</key>
+		<string>🎯</string>
+	</dict>
+	<dict>
+		<key>U+26F3</key>
+		<string>⛳</string>
+	</dict>
+	<dict>
+		<key>U+26F8</key>
+		<string>⛸</string>
+	</dict>
+	<dict>
+		<key>U+1F3A3</key>
+		<string>🎣</string>
+	</dict>
+	<dict>
+		<key>U+1F3BD</key>
+		<string>🎽</string>
+	</dict>
+	<dict>
+		<key>U+1F3BF</key>
+		<string>🎿</string>
+	</dict>
+	<dict>
+		<key>U+1F6F7</key>
+		<string>🛷</string>
+	</dict>
+	<dict>
+		<key>U+1F94C</key>
+		<string>🥌</string>
+	</dict>
+	<dict>
+		<key>U+1F3AE</key>
+		<string>🎮</string>
+	</dict>
+	<dict>
+		<key>U+1F579</key>
+		<string>🕹</string>
+	</dict>
+	<dict>
+		<key>U+1F3B2</key>
+		<string>🎲</string>
+	</dict>
+	<dict>
+		<key>U+2660</key>
+		<string>♠</string>
+	</dict>
+	<dict>
+		<key>U+2665</key>
+		<string>♥</string>
+	</dict>
+	<dict>
+		<key>U+2666</key>
+		<string>♦</string>
+	</dict>
+	<dict>
+		<key>U+2663</key>
+		<string>♣</string>
+	</dict>
+	<dict>
+		<key>U+1F0CF</key>
+		<string>🃏</string>
+	</dict>
+	<dict>
+		<key>U+1F004</key>
+		<string>🀄</string>
+	</dict>
+	<dict>
+		<key>U+1F3B4</key>
+		<string>🎴</string>
+	</dict>
+	<dict>
+		<key>U+1F507</key>
+		<string>🔇</string>
+	</dict>
+	<dict>
+		<key>U+1F508</key>
+		<string>🔈</string>
+	</dict>
+	<dict>
+		<key>U+1F509</key>
+		<string>🔉</string>
+	</dict>
+	<dict>
+		<key>U+1F50A</key>
+		<string>🔊</string>
+	</dict>
+	<dict>
+		<key>U+1F4E2</key>
+		<string>📢</string>
+	</dict>
+	<dict>
+		<key>U+1F4E3</key>
+		<string>📣</string>
+	</dict>
+	<dict>
+		<key>U+1F4EF</key>
+		<string>📯</string>
+	</dict>
+	<dict>
+		<key>U+1F514</key>
+		<string>🔔</string>
+	</dict>
+	<dict>
+		<key>U+1F515</key>
+		<string>🔕</string>
+	</dict>
+	<dict>
+		<key>U+1F3BC</key>
+		<string>🎼</string>
+	</dict>
+	<dict>
+		<key>U+1F3B5</key>
+		<string>🎵</string>
+	</dict>
+	<dict>
+		<key>U+1F3B6</key>
+		<string>🎶</string>
+	</dict>
+	<dict>
+		<key>U+1F399</key>
+		<string>🎙</string>
+	</dict>
+	<dict>
+		<key>U+1F39A</key>
+		<string>🎚</string>
+	</dict>
+	<dict>
+		<key>U+1F39B</key>
+		<string>🎛</string>
+	</dict>
+	<dict>
+		<key>U+1F3A4</key>
+		<string>🎤</string>
+	</dict>
+	<dict>
+		<key>U+1F3A7</key>
+		<string>🎧</string>
+	</dict>
+	<dict>
+		<key>U+1F4FB</key>
+		<string>📻</string>
+	</dict>
+	<dict>
+		<key>U+1F3B7</key>
+		<string>🎷</string>
+	</dict>
+	<dict>
+		<key>U+1F3B8</key>
+		<string>🎸</string>
+	</dict>
+	<dict>
+		<key>U+1F3B9</key>
+		<string>🎹</string>
+	</dict>
+	<dict>
+		<key>U+1F3BA</key>
+		<string>🎺</string>
+	</dict>
+	<dict>
+		<key>U+1F3BB</key>
+		<string>🎻</string>
+	</dict>
+	<dict>
+		<key>U+1F941</key>
+		<string>🥁</string>
+	</dict>
+	<dict>
+		<key>U+1F4F1</key>
+		<string>📱</string>
+	</dict>
+	<dict>
+		<key>U+1F4F2</key>
+		<string>📲</string>
+	</dict>
+	<dict>
+		<key>U+260E</key>
+		<string>☎</string>
+	</dict>
+	<dict>
+		<key>U+1F4DE</key>
+		<string>📞</string>
+	</dict>
+	<dict>
+		<key>U+1F4DF</key>
+		<string>📟</string>
+	</dict>
+	<dict>
+		<key>U+1F4E0</key>
+		<string>📠</string>
+	</dict>
+	<dict>
+		<key>U+1F50B</key>
+		<string>🔋</string>
+	</dict>
+	<dict>
+		<key>U+1F50C</key>
+		<string>🔌</string>
+	</dict>
+	<dict>
+		<key>U+1F4BB</key>
+		<string>💻</string>
+	</dict>
+	<dict>
+		<key>U+1F5A5</key>
+		<string>🖥</string>
+	</dict>
+	<dict>
+		<key>U+1F5A8</key>
+		<string>🖨</string>
+	</dict>
+	<dict>
+		<key>U+2328</key>
+		<string>⌨</string>
+	</dict>
+	<dict>
+		<key>U+1F5B1</key>
+		<string>🖱</string>
+	</dict>
+	<dict>
+		<key>U+1F5B2</key>
+		<string>🖲</string>
+	</dict>
+	<dict>
+		<key>U+1F4BD</key>
+		<string>💽</string>
+	</dict>
+	<dict>
+		<key>U+1F4BE</key>
+		<string>💾</string>
+	</dict>
+	<dict>
+		<key>U+1F4BF</key>
+		<string>💿</string>
+	</dict>
+	<dict>
+		<key>U+1F4C0</key>
+		<string>📀</string>
+	</dict>
+	<dict>
+		<key>U+1F3A5</key>
+		<string>🎥</string>
+	</dict>
+	<dict>
+		<key>U+1F39E</key>
+		<string>🎞</string>
+	</dict>
+	<dict>
+		<key>U+1F4FD</key>
+		<string>📽</string>
+	</dict>
+	<dict>
+		<key>U+1F3AC</key>
+		<string>🎬</string>
+	</dict>
+	<dict>
+		<key>U+1F4FA</key>
+		<string>📺</string>
+	</dict>
+	<dict>
+		<key>U+1F4F7</key>
+		<string>📷</string>
+	</dict>
+	<dict>
+		<key>U+1F4F8</key>
+		<string>📸</string>
+	</dict>
+	<dict>
+		<key>U+1F4F9</key>
+		<string>📹</string>
+	</dict>
+	<dict>
+		<key>U+1F4FC</key>
+		<string>📼</string>
+	</dict>
+	<dict>
+		<key>U+1F50D</key>
+		<string>🔍</string>
+	</dict>
+	<dict>
+		<key>U+1F50E</key>
+		<string>🔎</string>
+	</dict>
+	<dict>
+		<key>U+1F52C</key>
+		<string>🔬</string>
+	</dict>
+	<dict>
+		<key>U+1F52D</key>
+		<string>🔭</string>
+	</dict>
+	<dict>
+		<key>U+1F4E1</key>
+		<string>📡</string>
+	</dict>
+	<dict>
+		<key>U+1F56F</key>
+		<string>🕯</string>
+	</dict>
+	<dict>
+		<key>U+1F4A1</key>
+		<string>💡</string>
+	</dict>
+	<dict>
+		<key>U+1F526</key>
+		<string>🔦</string>
+	</dict>
+	<dict>
+		<key>U+1F3EE</key>
+		<string>🏮</string>
+	</dict>
+	<dict>
+		<key>U+1F4D4</key>
+		<string>📔</string>
+	</dict>
+	<dict>
+		<key>U+1F4D5</key>
+		<string>📕</string>
+	</dict>
+	<dict>
+		<key>U+1F4D6</key>
+		<string>📖</string>
+	</dict>
+	<dict>
+		<key>U+1F4D7</key>
+		<string>📗</string>
+	</dict>
+	<dict>
+		<key>U+1F4D8</key>
+		<string>📘</string>
+	</dict>
+	<dict>
+		<key>U+1F4D9</key>
+		<string>📙</string>
+	</dict>
+	<dict>
+		<key>U+1F4DA</key>
+		<string>📚</string>
+	</dict>
+	<dict>
+		<key>U+1F4D3</key>
+		<string>📓</string>
+	</dict>
+	<dict>
+		<key>U+1F4D2</key>
+		<string>📒</string>
+	</dict>
+	<dict>
+		<key>U+1F4C3</key>
+		<string>📃</string>
+	</dict>
+	<dict>
+		<key>U+1F4DC</key>
+		<string>📜</string>
+	</dict>
+	<dict>
+		<key>U+1F4C4</key>
+		<string>📄</string>
+	</dict>
+	<dict>
+		<key>U+1F4F0</key>
+		<string>📰</string>
+	</dict>
+	<dict>
+		<key>U+1F5DE</key>
+		<string>🗞</string>
+	</dict>
+	<dict>
+		<key>U+1F4D1</key>
+		<string>📑</string>
+	</dict>
+	<dict>
+		<key>U+1F516</key>
+		<string>🔖</string>
+	</dict>
+	<dict>
+		<key>U+1F3F7</key>
+		<string>🏷</string>
+	</dict>
+	<dict>
+		<key>U+1F4B0</key>
+		<string>💰</string>
+	</dict>
+	<dict>
+		<key>U+1F4B4</key>
+		<string>💴</string>
+	</dict>
+	<dict>
+		<key>U+1F4B5</key>
+		<string>💵</string>
+	</dict>
+	<dict>
+		<key>U+1F4B6</key>
+		<string>💶</string>
+	</dict>
+	<dict>
+		<key>U+1F4B7</key>
+		<string>💷</string>
+	</dict>
+	<dict>
+		<key>U+1F4B8</key>
+		<string>💸</string>
+	</dict>
+	<dict>
+		<key>U+1F4B3</key>
+		<string>💳</string>
+	</dict>
+	<dict>
+		<key>U+1F4B9</key>
+		<string>💹</string>
+	</dict>
+	<dict>
+		<key>U+1F4B1</key>
+		<string>💱</string>
+	</dict>
+	<dict>
+		<key>U+1F4B2</key>
+		<string>💲</string>
+	</dict>
+	<dict>
+		<key>U+2709</key>
+		<string>✉</string>
+	</dict>
+	<dict>
+		<key>U+1F4E7</key>
+		<string>📧</string>
+	</dict>
+	<dict>
+		<key>U+1F4E8</key>
+		<string>📨</string>
+	</dict>
+	<dict>
+		<key>U+1F4E9</key>
+		<string>📩</string>
+	</dict>
+	<dict>
+		<key>U+1F4E4</key>
+		<string>📤</string>
+	</dict>
+	<dict>
+		<key>U+1F4E5</key>
+		<string>📥</string>
+	</dict>
+	<dict>
+		<key>U+1F4E6</key>
+		<string>📦</string>
+	</dict>
+	<dict>
+		<key>U+1F4EB</key>
+		<string>📫</string>
+	</dict>
+	<dict>
+		<key>U+1F4EA</key>
+		<string>📪</string>
+	</dict>
+	<dict>
+		<key>U+1F4EC</key>
+		<string>📬</string>
+	</dict>
+	<dict>
+		<key>U+1F4ED</key>
+		<string>📭</string>
+	</dict>
+	<dict>
+		<key>U+1F4EE</key>
+		<string>📮</string>
+	</dict>
+	<dict>
+		<key>U+1F5F3</key>
+		<string>🗳</string>
+	</dict>
+	<dict>
+		<key>U+270F</key>
+		<string>✏</string>
+	</dict>
+	<dict>
+		<key>U+2712</key>
+		<string>✒</string>
+	</dict>
+	<dict>
+		<key>U+1F58B</key>
+		<string>🖋</string>
+	</dict>
+	<dict>
+		<key>U+1F58A</key>
+		<string>🖊</string>
+	</dict>
+	<dict>
+		<key>U+1F58C</key>
+		<string>🖌</string>
+	</dict>
+	<dict>
+		<key>U+1F58D</key>
+		<string>🖍</string>
+	</dict>
+	<dict>
+		<key>U+1F4DD</key>
+		<string>📝</string>
+	</dict>
+	<dict>
+		<key>U+1F4BC</key>
+		<string>💼</string>
+	</dict>
+	<dict>
+		<key>U+1F4C1</key>
+		<string>📁</string>
+	</dict>
+	<dict>
+		<key>U+1F4C2</key>
+		<string>📂</string>
+	</dict>
+	<dict>
+		<key>U+1F5C2</key>
+		<string>🗂</string>
+	</dict>
+	<dict>
+		<key>U+1F4C5</key>
+		<string>📅</string>
+	</dict>
+	<dict>
+		<key>U+1F4C6</key>
+		<string>📆</string>
+	</dict>
+	<dict>
+		<key>U+1F5D2</key>
+		<string>🗒</string>
+	</dict>
+	<dict>
+		<key>U+1F5D3</key>
+		<string>🗓</string>
+	</dict>
+	<dict>
+		<key>U+1F4C7</key>
+		<string>📇</string>
+	</dict>
+	<dict>
+		<key>U+1F4C8</key>
+		<string>📈</string>
+	</dict>
+	<dict>
+		<key>U+1F4C9</key>
+		<string>📉</string>
+	</dict>
+	<dict>
+		<key>U+1F4CA</key>
+		<string>📊</string>
+	</dict>
+	<dict>
+		<key>U+1F4CB</key>
+		<string>📋</string>
+	</dict>
+	<dict>
+		<key>U+1F4CC</key>
+		<string>📌</string>
+	</dict>
+	<dict>
+		<key>U+1F4CD</key>
+		<string>📍</string>
+	</dict>
+	<dict>
+		<key>U+1F4CE</key>
+		<string>📎</string>
+	</dict>
+	<dict>
+		<key>U+1F587</key>
+		<string>🖇</string>
+	</dict>
+	<dict>
+		<key>U+1F4CF</key>
+		<string>📏</string>
+	</dict>
+	<dict>
+		<key>U+1F4D0</key>
+		<string>📐</string>
+	</dict>
+	<dict>
+		<key>U+2702</key>
+		<string>✂</string>
+	</dict>
+	<dict>
+		<key>U+1F5C3</key>
+		<string>🗃</string>
+	</dict>
+	<dict>
+		<key>U+1F5C4</key>
+		<string>🗄</string>
+	</dict>
+	<dict>
+		<key>U+1F5D1</key>
+		<string>🗑</string>
+	</dict>
+	<dict>
+		<key>U+1F512</key>
+		<string>🔒</string>
+	</dict>
+	<dict>
+		<key>U+1F513</key>
+		<string>🔓</string>
+	</dict>
+	<dict>
+		<key>U+1F50F</key>
+		<string>🔏</string>
+	</dict>
+	<dict>
+		<key>U+1F510</key>
+		<string>🔐</string>
+	</dict>
+	<dict>
+		<key>U+1F511</key>
+		<string>🔑</string>
+	</dict>
+	<dict>
+		<key>U+1F5DD</key>
+		<string>🗝</string>
+	</dict>
+	<dict>
+		<key>U+1F528</key>
+		<string>🔨</string>
+	</dict>
+	<dict>
+		<key>U+26CF</key>
+		<string>⛏</string>
+	</dict>
+	<dict>
+		<key>U+2692</key>
+		<string>⚒</string>
+	</dict>
+	<dict>
+		<key>U+1F6E0</key>
+		<string>🛠</string>
+	</dict>
+	<dict>
+		<key>U+1F5E1</key>
+		<string>🗡</string>
+	</dict>
+	<dict>
+		<key>U+2694</key>
+		<string>⚔</string>
+	</dict>
+	<dict>
+		<key>U+1F52B</key>
+		<string>🔫</string>
+	</dict>
+	<dict>
+		<key>U+1F3F9</key>
+		<string>🏹</string>
+	</dict>
+	<dict>
+		<key>U+1F6E1</key>
+		<string>🛡</string>
+	</dict>
+	<dict>
+		<key>U+1F527</key>
+		<string>🔧</string>
+	</dict>
+	<dict>
+		<key>U+1F529</key>
+		<string>🔩</string>
+	</dict>
+	<dict>
+		<key>U+2699</key>
+		<string>⚙</string>
+	</dict>
+	<dict>
+		<key>U+1F5DC</key>
+		<string>🗜</string>
+	</dict>
+	<dict>
+		<key>U+2697</key>
+		<string>⚗</string>
+	</dict>
+	<dict>
+		<key>U+2696</key>
+		<string>⚖</string>
+	</dict>
+	<dict>
+		<key>U+1F517</key>
+		<string>🔗</string>
+	</dict>
+	<dict>
+		<key>U+26D3</key>
+		<string>⛓</string>
+	</dict>
+	<dict>
+		<key>U+1F489</key>
+		<string>💉</string>
+	</dict>
+	<dict>
+		<key>U+1F48A</key>
+		<string>💊</string>
+	</dict>
+	<dict>
+		<key>U+1F6AC</key>
+		<string>🚬</string>
+	</dict>
+	<dict>
+		<key>U+26B0</key>
+		<string>⚰</string>
+	</dict>
+	<dict>
+		<key>U+26B1</key>
+		<string>⚱</string>
+	</dict>
+	<dict>
+		<key>U+1F5FF</key>
+		<string>🗿</string>
+	</dict>
+	<dict>
+		<key>U+1F6E2</key>
+		<string>🛢</string>
+	</dict>
+	<dict>
+		<key>U+1F52E</key>
+		<string>🔮</string>
+	</dict>
+	<dict>
+		<key>U+1F6D2</key>
+		<string>🛒</string>
+	</dict>
+	<dict>
+		<key>U+1F3E7</key>
+		<string>🏧</string>
+	</dict>
+	<dict>
+		<key>U+1F6AE</key>
+		<string>🚮</string>
+	</dict>
+	<dict>
+		<key>U+1F6B0</key>
+		<string>🚰</string>
+	</dict>
+	<dict>
+		<key>U+267F</key>
+		<string>♿</string>
+	</dict>
+	<dict>
+		<key>U+1F6B9</key>
+		<string>🚹</string>
+	</dict>
+	<dict>
+		<key>U+1F6BA</key>
+		<string>🚺</string>
+	</dict>
+	<dict>
+		<key>U+1F6BB</key>
+		<string>🚻</string>
+	</dict>
+	<dict>
+		<key>U+1F6BC</key>
+		<string>🚼</string>
+	</dict>
+	<dict>
+		<key>U+1F6BE</key>
+		<string>🚾</string>
+	</dict>
+	<dict>
+		<key>U+1F6C2</key>
+		<string>🛂</string>
+	</dict>
+	<dict>
+		<key>U+1F6C3</key>
+		<string>🛃</string>
+	</dict>
+	<dict>
+		<key>U+1F6C4</key>
+		<string>🛄</string>
+	</dict>
+	<dict>
+		<key>U+1F6C5</key>
+		<string>🛅</string>
+	</dict>
+	<dict>
+		<key>U+26A0</key>
+		<string>⚠</string>
+	</dict>
+	<dict>
+		<key>U+1F6B8</key>
+		<string>🚸</string>
+	</dict>
+	<dict>
+		<key>U+26D4</key>
+		<string>⛔</string>
+	</dict>
+	<dict>
+		<key>U+1F6AB</key>
+		<string>🚫</string>
+	</dict>
+	<dict>
+		<key>U+1F6B3</key>
+		<string>🚳</string>
+	</dict>
+	<dict>
+		<key>U+1F6AD</key>
+		<string>🚭</string>
+	</dict>
+	<dict>
+		<key>U+1F6AF</key>
+		<string>🚯</string>
+	</dict>
+	<dict>
+		<key>U+1F6B1</key>
+		<string>🚱</string>
+	</dict>
+	<dict>
+		<key>U+1F6B7</key>
+		<string>🚷</string>
+	</dict>
+	<dict>
+		<key>U+1F4F5</key>
+		<string>📵</string>
+	</dict>
+	<dict>
+		<key>U+1F51E</key>
+		<string>🔞</string>
+	</dict>
+	<dict>
+		<key>U+2622</key>
+		<string>☢</string>
+	</dict>
+	<dict>
+		<key>U+2623</key>
+		<string>☣</string>
+	</dict>
+	<dict>
+		<key>U+2B06</key>
+		<string>⬆</string>
+	</dict>
+	<dict>
+		<key>U+2197</key>
+		<string>↗</string>
+	</dict>
+	<dict>
+		<key>U+27A1</key>
+		<string>➡</string>
+	</dict>
+	<dict>
+		<key>U+2198</key>
+		<string>↘</string>
+	</dict>
+	<dict>
+		<key>U+2B07</key>
+		<string>⬇</string>
+	</dict>
+	<dict>
+		<key>U+2199</key>
+		<string>↙</string>
+	</dict>
+	<dict>
+		<key>U+2B05</key>
+		<string>⬅</string>
+	</dict>
+	<dict>
+		<key>U+2196</key>
+		<string>↖</string>
+	</dict>
+	<dict>
+		<key>U+2195</key>
+		<string>↕</string>
+	</dict>
+	<dict>
+		<key>U+2194</key>
+		<string>↔</string>
+	</dict>
+	<dict>
+		<key>U+21A9</key>
+		<string>↩</string>
+	</dict>
+	<dict>
+		<key>U+21AA</key>
+		<string>↪</string>
+	</dict>
+	<dict>
+		<key>U+2934</key>
+		<string>⤴</string>
+	</dict>
+	<dict>
+		<key>U+2935</key>
+		<string>⤵</string>
+	</dict>
+	<dict>
+		<key>U+1F503</key>
+		<string>🔃</string>
+	</dict>
+	<dict>
+		<key>U+1F504</key>
+		<string>🔄</string>
+	</dict>
+	<dict>
+		<key>U+1F519</key>
+		<string>🔙</string>
+	</dict>
+	<dict>
+		<key>U+1F51A</key>
+		<string>🔚</string>
+	</dict>
+	<dict>
+		<key>U+1F51B</key>
+		<string>🔛</string>
+	</dict>
+	<dict>
+		<key>U+1F51C</key>
+		<string>🔜</string>
+	</dict>
+	<dict>
+		<key>U+1F51D</key>
+		<string>🔝</string>
+	</dict>
+	<dict>
+		<key>U+1F6D0</key>
+		<string>🛐</string>
+	</dict>
+	<dict>
+		<key>U+269B</key>
+		<string>⚛</string>
+	</dict>
+	<dict>
+		<key>U+1F549</key>
+		<string>🕉</string>
+	</dict>
+	<dict>
+		<key>U+2721</key>
+		<string>✡</string>
+	</dict>
+	<dict>
+		<key>U+2638</key>
+		<string>☸</string>
+	</dict>
+	<dict>
+		<key>U+262F</key>
+		<string>☯</string>
+	</dict>
+	<dict>
+		<key>U+271D</key>
+		<string>✝</string>
+	</dict>
+	<dict>
+		<key>U+2626</key>
+		<string>☦</string>
+	</dict>
+	<dict>
+		<key>U+262A</key>
+		<string>☪</string>
+	</dict>
+	<dict>
+		<key>U+262E</key>
+		<string>☮</string>
+	</dict>
+	<dict>
+		<key>U+1F54E</key>
+		<string>🕎</string>
+	</dict>
+	<dict>
+		<key>U+1F52F</key>
+		<string>🔯</string>
+	</dict>
+	<dict>
+		<key>U+2648</key>
+		<string>♈</string>
+	</dict>
+	<dict>
+		<key>U+2649</key>
+		<string>♉</string>
+	</dict>
+	<dict>
+		<key>U+264A</key>
+		<string>♊</string>
+	</dict>
+	<dict>
+		<key>U+264B</key>
+		<string>♋</string>
+	</dict>
+	<dict>
+		<key>U+264C</key>
+		<string>♌</string>
+	</dict>
+	<dict>
+		<key>U+264D</key>
+		<string>♍</string>
+	</dict>
+	<dict>
+		<key>U+264E</key>
+		<string>♎</string>
+	</dict>
+	<dict>
+		<key>U+264F</key>
+		<string>♏</string>
+	</dict>
+	<dict>
+		<key>U+2650</key>
+		<string>♐</string>
+	</dict>
+	<dict>
+		<key>U+2651</key>
+		<string>♑</string>
+	</dict>
+	<dict>
+		<key>U+2652</key>
+		<string>♒</string>
+	</dict>
+	<dict>
+		<key>U+2653</key>
+		<string>♓</string>
+	</dict>
+	<dict>
+		<key>U+26CE</key>
+		<string>⛎</string>
+	</dict>
+	<dict>
+		<key>U+1F500</key>
+		<string>🔀</string>
+	</dict>
+	<dict>
+		<key>U+1F501</key>
+		<string>🔁</string>
+	</dict>
+	<dict>
+		<key>U+1F502</key>
+		<string>🔂</string>
+	</dict>
+	<dict>
+		<key>U+25B6</key>
+		<string>▶</string>
+	</dict>
+	<dict>
+		<key>U+23E9</key>
+		<string>⏩</string>
+	</dict>
+	<dict>
+		<key>U+23ED</key>
+		<string>⏭</string>
+	</dict>
+	<dict>
+		<key>U+23EF</key>
+		<string>⏯</string>
+	</dict>
+	<dict>
+		<key>U+25C0</key>
+		<string>◀</string>
+	</dict>
+	<dict>
+		<key>U+23EA</key>
+		<string>⏪</string>
+	</dict>
+	<dict>
+		<key>U+23EE</key>
+		<string>⏮</string>
+	</dict>
+	<dict>
+		<key>U+1F53C</key>
+		<string>🔼</string>
+	</dict>
+	<dict>
+		<key>U+23EB</key>
+		<string>⏫</string>
+	</dict>
+	<dict>
+		<key>U+1F53D</key>
+		<string>🔽</string>
+	</dict>
+	<dict>
+		<key>U+23EC</key>
+		<string>⏬</string>
+	</dict>
+	<dict>
+		<key>U+23F8</key>
+		<string>⏸</string>
+	</dict>
+	<dict>
+		<key>U+23F9</key>
+		<string>⏹</string>
+	</dict>
+	<dict>
+		<key>U+23FA</key>
+		<string>⏺</string>
+	</dict>
+	<dict>
+		<key>U+23CF</key>
+		<string>⏏</string>
+	</dict>
+	<dict>
+		<key>U+1F3A6</key>
+		<string>🎦</string>
+	</dict>
+	<dict>
+		<key>U+1F505</key>
+		<string>🔅</string>
+	</dict>
+	<dict>
+		<key>U+1F506</key>
+		<string>🔆</string>
+	</dict>
+	<dict>
+		<key>U+1F4F6</key>
+		<string>📶</string>
+	</dict>
+	<dict>
+		<key>U+1F4F3</key>
+		<string>📳</string>
+	</dict>
+	<dict>
+		<key>U+1F4F4</key>
+		<string>📴</string>
+	</dict>
+	<dict>
+		<key>U+2640</key>
+		<string>♀</string>
+	</dict>
+	<dict>
+		<key>U+2642</key>
+		<string>♂</string>
+	</dict>
+	<dict>
+		<key>U+2695</key>
+		<string>⚕</string>
+	</dict>
+	<dict>
+		<key>U+267B</key>
+		<string>♻</string>
+	</dict>
+	<dict>
+		<key>U+269C</key>
+		<string>⚜</string>
+	</dict>
+	<dict>
+		<key>U+1F531</key>
+		<string>🔱</string>
+	</dict>
+	<dict>
+		<key>U+1F4DB</key>
+		<string>📛</string>
+	</dict>
+	<dict>
+		<key>U+1F530</key>
+		<string>🔰</string>
+	</dict>
+	<dict>
+		<key>U+2B55</key>
+		<string>⭕</string>
+	</dict>
+	<dict>
+		<key>U+2705</key>
+		<string>✅</string>
+	</dict>
+	<dict>
+		<key>U+2611</key>
+		<string>☑</string>
+	</dict>
+	<dict>
+		<key>U+2714</key>
+		<string>✔</string>
+	</dict>
+	<dict>
+		<key>U+2716</key>
+		<string>✖</string>
+	</dict>
+	<dict>
+		<key>U+274C</key>
+		<string>❌</string>
+	</dict>
+	<dict>
+		<key>U+274E</key>
+		<string>❎</string>
+	</dict>
+	<dict>
+		<key>U+2795</key>
+		<string>➕</string>
+	</dict>
+	<dict>
+		<key>U+2796</key>
+		<string>➖</string>
+	</dict>
+	<dict>
+		<key>U+2797</key>
+		<string>➗</string>
+	</dict>
+	<dict>
+		<key>U+27B0</key>
+		<string>➰</string>
+	</dict>
+	<dict>
+		<key>U+27BF</key>
+		<string>➿</string>
+	</dict>
+	<dict>
+		<key>U+303D</key>
+		<string>〽</string>
+	</dict>
+	<dict>
+		<key>U+2733</key>
+		<string>✳</string>
+	</dict>
+	<dict>
+		<key>U+2734</key>
+		<string>✴</string>
+	</dict>
+	<dict>
+		<key>U+2747</key>
+		<string>❇</string>
+	</dict>
+	<dict>
+		<key>U+203C</key>
+		<string>‼</string>
+	</dict>
+	<dict>
+		<key>U+2049</key>
+		<string>⁉</string>
+	</dict>
+	<dict>
+		<key>U+2753</key>
+		<string>❓</string>
+	</dict>
+	<dict>
+		<key>U+2754</key>
+		<string>❔</string>
+	</dict>
+	<dict>
+		<key>U+2755</key>
+		<string>❕</string>
+	</dict>
+	<dict>
+		<key>U+2757</key>
+		<string>❗</string>
+	</dict>
+	<dict>
+		<key>U+3030</key>
+		<string>〰</string>
+	</dict>
+	<dict>
+		<key>U+00A9</key>
+		<string>©</string>
+	</dict>
+	<dict>
+		<key>U+00AE</key>
+		<string>®</string>
+	</dict>
+	<dict>
+		<key>U+2122</key>
+		<string>™</string>
+	</dict>
+	<dict>
+		<key>U+0023 U+FE0F U+20E3</key>
+		<string>#️⃣</string>
+	</dict>
+	<dict>
+		<key>U+002A U+FE0F U+20E3</key>
+		<string>*️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0030 U+FE0F U+20E3</key>
+		<string>0️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0031 U+FE0F U+20E3</key>
+		<string>1️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0032 U+FE0F U+20E3</key>
+		<string>2️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0033 U+FE0F U+20E3</key>
+		<string>3️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0034 U+FE0F U+20E3</key>
+		<string>4️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0035 U+FE0F U+20E3</key>
+		<string>5️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0036 U+FE0F U+20E3</key>
+		<string>6️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0037 U+FE0F U+20E3</key>
+		<string>7️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0038 U+FE0F U+20E3</key>
+		<string>8️⃣</string>
+	</dict>
+	<dict>
+		<key>U+0039 U+FE0F U+20E3</key>
+		<string>9️⃣</string>
+	</dict>
+	<dict>
+		<key>U+1F51F</key>
+		<string>🔟</string>
+	</dict>
+	<dict>
+		<key>U+1F4AF</key>
+		<string>💯</string>
+	</dict>
+	<dict>
+		<key>U+1F520</key>
+		<string>🔠</string>
+	</dict>
+	<dict>
+		<key>U+1F521</key>
+		<string>🔡</string>
+	</dict>
+	<dict>
+		<key>U+1F522</key>
+		<string>🔢</string>
+	</dict>
+	<dict>
+		<key>U+1F523</key>
+		<string>🔣</string>
+	</dict>
+	<dict>
+		<key>U+1F524</key>
+		<string>🔤</string>
+	</dict>
+	<dict>
+		<key>U+1F170</key>
+		<string>🅰</string>
+	</dict>
+	<dict>
+		<key>U+1F18E</key>
+		<string>🆎</string>
+	</dict>
+	<dict>
+		<key>U+1F171</key>
+		<string>🅱</string>
+	</dict>
+	<dict>
+		<key>U+1F191</key>
+		<string>🆑</string>
+	</dict>
+	<dict>
+		<key>U+1F192</key>
+		<string>🆒</string>
+	</dict>
+	<dict>
+		<key>U+1F193</key>
+		<string>🆓</string>
+	</dict>
+	<dict>
+		<key>U+2139</key>
+		<string>ℹ</string>
+	</dict>
+	<dict>
+		<key>U+1F194</key>
+		<string>🆔</string>
+	</dict>
+	<dict>
+		<key>U+24C2</key>
+		<string>Ⓜ</string>
+	</dict>
+	<dict>
+		<key>U+1F195</key>
+		<string>🆕</string>
+	</dict>
+	<dict>
+		<key>U+1F196</key>
+		<string>🆖</string>
+	</dict>
+	<dict>
+		<key>U+1F17E</key>
+		<string>🅾</string>
+	</dict>
+	<dict>
+		<key>U+1F197</key>
+		<string>🆗</string>
+	</dict>
+	<dict>
+		<key>U+1F17F</key>
+		<string>🅿</string>
+	</dict>
+	<dict>
+		<key>U+1F198</key>
+		<string>🆘</string>
+	</dict>
+	<dict>
+		<key>U+1F199</key>
+		<string>🆙</string>
+	</dict>
+	<dict>
+		<key>U+1F19A</key>
+		<string>🆚</string>
+	</dict>
+	<dict>
+		<key>U+1F201</key>
+		<string>🈁</string>
+	</dict>
+	<dict>
+		<key>U+1F202</key>
+		<string>🈂</string>
+	</dict>
+	<dict>
+		<key>U+1F237</key>
+		<string>🈷</string>
+	</dict>
+	<dict>
+		<key>U+1F236</key>
+		<string>🈶</string>
+	</dict>
+	<dict>
+		<key>U+1F22F</key>
+		<string>🈯</string>
+	</dict>
+	<dict>
+		<key>U+1F250</key>
+		<string>🉐</string>
+	</dict>
+	<dict>
+		<key>U+1F239</key>
+		<string>🈹</string>
+	</dict>
+	<dict>
+		<key>U+1F21A</key>
+		<string>🈚</string>
+	</dict>
+	<dict>
+		<key>U+1F232</key>
+		<string>🈲</string>
+	</dict>
+	<dict>
+		<key>U+1F251</key>
+		<string>🉑</string>
+	</dict>
+	<dict>
+		<key>U+1F238</key>
+		<string>🈸</string>
+	</dict>
+	<dict>
+		<key>U+1F234</key>
+		<string>🈴</string>
+	</dict>
+	<dict>
+		<key>U+1F233</key>
+		<string>🈳</string>
+	</dict>
+	<dict>
+		<key>U+3297</key>
+		<string>㊗</string>
+	</dict>
+	<dict>
+		<key>U+3299</key>
+		<string>㊙</string>
+	</dict>
+	<dict>
+		<key>U+1F23A</key>
+		<string>🈺</string>
+	</dict>
+	<dict>
+		<key>U+1F235</key>
+		<string>🈵</string>
+	</dict>
+	<dict>
+		<key>U+25AA</key>
+		<string>▪</string>
+	</dict>
+	<dict>
+		<key>U+25AB</key>
+		<string>▫</string>
+	</dict>
+	<dict>
+		<key>U+25FB</key>
+		<string>◻</string>
+	</dict>
+	<dict>
+		<key>U+25FC</key>
+		<string>◼</string>
+	</dict>
+	<dict>
+		<key>U+25FD</key>
+		<string>◽</string>
+	</dict>
+	<dict>
+		<key>U+25FE</key>
+		<string>◾</string>
+	</dict>
+	<dict>
+		<key>U+2B1B</key>
+		<string>⬛</string>
+	</dict>
+	<dict>
+		<key>U+2B1C</key>
+		<string>⬜</string>
+	</dict>
+	<dict>
+		<key>U+1F536</key>
+		<string>🔶</string>
+	</dict>
+	<dict>
+		<key>U+1F537</key>
+		<string>🔷</string>
+	</dict>
+	<dict>
+		<key>U+1F538</key>
+		<string>🔸</string>
+	</dict>
+	<dict>
+		<key>U+1F539</key>
+		<string>🔹</string>
+	</dict>
+	<dict>
+		<key>U+1F53A</key>
+		<string>🔺</string>
+	</dict>
+	<dict>
+		<key>U+1F53B</key>
+		<string>🔻</string>
+	</dict>
+	<dict>
+		<key>U+1F4A0</key>
+		<string>💠</string>
+	</dict>
+	<dict>
+		<key>U+1F518</key>
+		<string>🔘</string>
+	</dict>
+	<dict>
+		<key>U+1F532</key>
+		<string>🔲</string>
+	</dict>
+	<dict>
+		<key>U+1F533</key>
+		<string>🔳</string>
+	</dict>
+	<dict>
+		<key>U+26AA</key>
+		<string>⚪</string>
+	</dict>
+	<dict>
+		<key>U+26AB</key>
+		<string>⚫</string>
+	</dict>
+	<dict>
+		<key>U+1F534</key>
+		<string>🔴</string>
+	</dict>
+	<dict>
+		<key>U+1F535</key>
+		<string>🔵</string>
+	</dict>
+	<dict>
+		<key>U+1F3C1</key>
+		<string>🏁</string>
+	</dict>
+	<dict>
+		<key>U+1F6A9</key>
+		<string>🚩</string>
+	</dict>
+	<dict>
+		<key>U+1F38C</key>
+		<string>🎌</string>
+	</dict>
+	<dict>
+		<key>U+1F3F4</key>
+		<string>🏴</string>
+	</dict>
+	<dict>
+		<key>U+1F3F3</key>
+		<string>🏳</string>
+	</dict>
+	<dict>
+		<key>U+1F3F3 U+FE0F U+200D U+1F308</key>
+		<string>🏳️‍🌈</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1E8</key>
+		<string>🇦🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1E9</key>
+		<string>🇦🇩</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1EA</key>
+		<string>🇦🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1EB</key>
+		<string>🇦🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1EC</key>
+		<string>🇦🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1EE</key>
+		<string>🇦🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1F1</key>
+		<string>🇦🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1F2</key>
+		<string>🇦🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1F4</key>
+		<string>🇦🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1F6</key>
+		<string>🇦🇶</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1F7</key>
+		<string>🇦🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1F8</key>
+		<string>🇦🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1F9</key>
+		<string>🇦🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1FA</key>
+		<string>🇦🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1FC</key>
+		<string>🇦🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1FD</key>
+		<string>🇦🇽</string>
+	</dict>
+	<dict>
+		<key>U+1F1E6 U+1F1FF</key>
+		<string>🇦🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1E6</key>
+		<string>🇧🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1E7</key>
+		<string>🇧🇧</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1E9</key>
+		<string>🇧🇩</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1EA</key>
+		<string>🇧🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1EB</key>
+		<string>🇧🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1EC</key>
+		<string>🇧🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1ED</key>
+		<string>🇧🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1EE</key>
+		<string>🇧🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1EF</key>
+		<string>🇧🇯</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1F1</key>
+		<string>🇧🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1F2</key>
+		<string>🇧🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1F3</key>
+		<string>🇧🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1F4</key>
+		<string>🇧🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1F6</key>
+		<string>🇧🇶</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1F7</key>
+		<string>🇧🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1F8</key>
+		<string>🇧🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1F9</key>
+		<string>🇧🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1FB</key>
+		<string>🇧🇻</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1FC</key>
+		<string>🇧🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1FE</key>
+		<string>🇧🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1E7 U+1F1FF</key>
+		<string>🇧🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1E6</key>
+		<string>🇨🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1E8</key>
+		<string>🇨🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1E9</key>
+		<string>🇨🇩</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1EB</key>
+		<string>🇨🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1EC</key>
+		<string>🇨🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1ED</key>
+		<string>🇨🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1EE</key>
+		<string>🇨🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1F0</key>
+		<string>🇨🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1F1</key>
+		<string>🇨🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1F2</key>
+		<string>🇨🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1F3</key>
+		<string>🇨🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1F4</key>
+		<string>🇨🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1F5</key>
+		<string>🇨🇵</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1F7</key>
+		<string>🇨🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1FA</key>
+		<string>🇨🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1FB</key>
+		<string>🇨🇻</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1FC</key>
+		<string>🇨🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1FD</key>
+		<string>🇨🇽</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1FE</key>
+		<string>🇨🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1E8 U+1F1FF</key>
+		<string>🇨🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1E9 U+1F1EA</key>
+		<string>🇩🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1E9 U+1F1EC</key>
+		<string>🇩🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1E9 U+1F1EF</key>
+		<string>🇩🇯</string>
+	</dict>
+	<dict>
+		<key>U+1F1E9 U+1F1F0</key>
+		<string>🇩🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1E9 U+1F1F2</key>
+		<string>🇩🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1E9 U+1F1F4</key>
+		<string>🇩🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1E9 U+1F1FF</key>
+		<string>🇩🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1E6</key>
+		<string>🇪🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1E8</key>
+		<string>🇪🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1EA</key>
+		<string>🇪🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1EC</key>
+		<string>🇪🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1ED</key>
+		<string>🇪🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1F7</key>
+		<string>🇪🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1F8</key>
+		<string>🇪🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1F9</key>
+		<string>🇪🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1EA U+1F1FA</key>
+		<string>🇪🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1EB U+1F1EE</key>
+		<string>🇫🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1EB U+1F1EF</key>
+		<string>🇫🇯</string>
+	</dict>
+	<dict>
+		<key>U+1F1EB U+1F1F0</key>
+		<string>🇫🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1EB U+1F1F2</key>
+		<string>🇫🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1EB U+1F1F4</key>
+		<string>🇫🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1EB U+1F1F7</key>
+		<string>🇫🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1E6</key>
+		<string>🇬🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1E7</key>
+		<string>🇬🇧</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1E9</key>
+		<string>🇬🇩</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1EA</key>
+		<string>🇬🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1EB</key>
+		<string>🇬🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1EC</key>
+		<string>🇬🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1ED</key>
+		<string>🇬🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1EE</key>
+		<string>🇬🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1F1</key>
+		<string>🇬🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1F2</key>
+		<string>🇬🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1F3</key>
+		<string>🇬🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1F5</key>
+		<string>🇬🇵</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1F6</key>
+		<string>🇬🇶</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1F7</key>
+		<string>🇬🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1F8</key>
+		<string>🇬🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1F9</key>
+		<string>🇬🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1FA</key>
+		<string>🇬🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1FC</key>
+		<string>🇬🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1EC U+1F1FE</key>
+		<string>🇬🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1ED U+1F1F0</key>
+		<string>🇭🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1ED U+1F1F2</key>
+		<string>🇭🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1ED U+1F1F3</key>
+		<string>🇭🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1ED U+1F1F7</key>
+		<string>🇭🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1ED U+1F1F9</key>
+		<string>🇭🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1ED U+1F1FA</key>
+		<string>🇭🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1E8</key>
+		<string>🇮🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1E9</key>
+		<string>🇮🇩</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1EA</key>
+		<string>🇮🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1F1</key>
+		<string>🇮🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1F2</key>
+		<string>🇮🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1F3</key>
+		<string>🇮🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1F4</key>
+		<string>🇮🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1F6</key>
+		<string>🇮🇶</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1F7</key>
+		<string>🇮🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1F8</key>
+		<string>🇮🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1EE U+1F1F9</key>
+		<string>🇮🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1EF U+1F1EA</key>
+		<string>🇯🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1EF U+1F1F2</key>
+		<string>🇯🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1EF U+1F1F4</key>
+		<string>🇯🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1EF U+1F1F5</key>
+		<string>🇯🇵</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1EA</key>
+		<string>🇰🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1EC</key>
+		<string>🇰🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1ED</key>
+		<string>🇰🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1EE</key>
+		<string>🇰🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1F2</key>
+		<string>🇰🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1F3</key>
+		<string>🇰🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1F5</key>
+		<string>🇰🇵</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1F7</key>
+		<string>🇰🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1FC</key>
+		<string>🇰🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1FE</key>
+		<string>🇰🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1F0 U+1F1FF</key>
+		<string>🇰🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1E6</key>
+		<string>🇱🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1E7</key>
+		<string>🇱🇧</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1E8</key>
+		<string>🇱🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1EE</key>
+		<string>🇱🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1F0</key>
+		<string>🇱🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1F7</key>
+		<string>🇱🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1F8</key>
+		<string>🇱🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1F9</key>
+		<string>🇱🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1FA</key>
+		<string>🇱🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1FB</key>
+		<string>🇱🇻</string>
+	</dict>
+	<dict>
+		<key>U+1F1F1 U+1F1FE</key>
+		<string>🇱🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1E6</key>
+		<string>🇲🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1E8</key>
+		<string>🇲🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1E9</key>
+		<string>🇲🇩</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1EA</key>
+		<string>🇲🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1EB</key>
+		<string>🇲🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1EC</key>
+		<string>🇲🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1ED</key>
+		<string>🇲🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F0</key>
+		<string>🇲🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F1</key>
+		<string>🇲🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F2</key>
+		<string>🇲🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F3</key>
+		<string>🇲🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F4</key>
+		<string>🇲🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F5</key>
+		<string>🇲🇵</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F6</key>
+		<string>🇲🇶</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F7</key>
+		<string>🇲🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F8</key>
+		<string>🇲🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1F9</key>
+		<string>🇲🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1FA</key>
+		<string>🇲🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1FB</key>
+		<string>🇲🇻</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1FC</key>
+		<string>🇲🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1FD</key>
+		<string>🇲🇽</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1FE</key>
+		<string>🇲🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1F2 U+1F1FF</key>
+		<string>🇲🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1E6</key>
+		<string>🇳🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1E8</key>
+		<string>🇳🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1EA</key>
+		<string>🇳🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1EB</key>
+		<string>🇳🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1EC</key>
+		<string>🇳🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1EE</key>
+		<string>🇳🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1F1</key>
+		<string>🇳🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1F4</key>
+		<string>🇳🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1F5</key>
+		<string>🇳🇵</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1F7</key>
+		<string>🇳🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1FA</key>
+		<string>🇳🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1F3 U+1F1FF</key>
+		<string>🇳🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1F4 U+1F1F2</key>
+		<string>🇴🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1E6</key>
+		<string>🇵🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1EA</key>
+		<string>🇵🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1EB</key>
+		<string>🇵🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1EC</key>
+		<string>🇵🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1ED</key>
+		<string>🇵🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1F0</key>
+		<string>🇵🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1F1</key>
+		<string>🇵🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1F2</key>
+		<string>🇵🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1F3</key>
+		<string>🇵🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1F7</key>
+		<string>🇵🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1F8</key>
+		<string>🇵🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1F9</key>
+		<string>🇵🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1FC</key>
+		<string>🇵🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1F5 U+1F1FE</key>
+		<string>🇵🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1F6 U+1F1E6</key>
+		<string>🇶🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1F7 U+1F1EA</key>
+		<string>🇷🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1F7 U+1F1F4</key>
+		<string>🇷🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1F7 U+1F1F8</key>
+		<string>🇷🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1F7 U+1F1FA</key>
+		<string>🇷🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1F7 U+1F1FC</key>
+		<string>🇷🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1E6</key>
+		<string>🇸🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1E7</key>
+		<string>🇸🇧</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1E8</key>
+		<string>🇸🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1E9</key>
+		<string>🇸🇩</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1EA</key>
+		<string>🇸🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1EC</key>
+		<string>🇸🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1ED</key>
+		<string>🇸🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1EE</key>
+		<string>🇸🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1EF</key>
+		<string>🇸🇯</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1F0</key>
+		<string>🇸🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1F1</key>
+		<string>🇸🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1F2</key>
+		<string>🇸🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1F3</key>
+		<string>🇸🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1F4</key>
+		<string>🇸🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1F7</key>
+		<string>🇸🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1F8</key>
+		<string>🇸🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1F9</key>
+		<string>🇸🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1FB</key>
+		<string>🇸🇻</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1FD</key>
+		<string>🇸🇽</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1FE</key>
+		<string>🇸🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1F8 U+1F1FF</key>
+		<string>🇸🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1E6</key>
+		<string>🇹🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1E8</key>
+		<string>🇹🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1E9</key>
+		<string>🇹🇩</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1EB</key>
+		<string>🇹🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1EC</key>
+		<string>🇹🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1ED</key>
+		<string>🇹🇭</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1EF</key>
+		<string>🇹🇯</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1F0</key>
+		<string>🇹🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1F1</key>
+		<string>🇹🇱</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1F2</key>
+		<string>🇹🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1F3</key>
+		<string>🇹🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1F4</key>
+		<string>🇹🇴</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1F7</key>
+		<string>🇹🇷</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1F9</key>
+		<string>🇹🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1FB</key>
+		<string>🇹🇻</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1FC</key>
+		<string>🇹🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F1F9 U+1F1FF</key>
+		<string>🇹🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1FA U+1F1E6</key>
+		<string>🇺🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1FA U+1F1EC</key>
+		<string>🇺🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1FA U+1F1F2</key>
+		<string>🇺🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1FA U+1F1F3</key>
+		<string>🇺🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1FA U+1F1F8</key>
+		<string>🇺🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1FA U+1F1FE</key>
+		<string>🇺🇾</string>
+	</dict>
+	<dict>
+		<key>U+1F1FA U+1F1FF</key>
+		<string>🇺🇿</string>
+	</dict>
+	<dict>
+		<key>U+1F1FB U+1F1E6</key>
+		<string>🇻🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1FB U+1F1E8</key>
+		<string>🇻🇨</string>
+	</dict>
+	<dict>
+		<key>U+1F1FB U+1F1EA</key>
+		<string>🇻🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1FB U+1F1EC</key>
+		<string>🇻🇬</string>
+	</dict>
+	<dict>
+		<key>U+1F1FB U+1F1EE</key>
+		<string>🇻🇮</string>
+	</dict>
+	<dict>
+		<key>U+1F1FB U+1F1F3</key>
+		<string>🇻🇳</string>
+	</dict>
+	<dict>
+		<key>U+1F1FB U+1F1FA</key>
+		<string>🇻🇺</string>
+	</dict>
+	<dict>
+		<key>U+1F1FC U+1F1EB</key>
+		<string>🇼🇫</string>
+	</dict>
+	<dict>
+		<key>U+1F1FC U+1F1F8</key>
+		<string>🇼🇸</string>
+	</dict>
+	<dict>
+		<key>U+1F1FD U+1F1F0</key>
+		<string>🇽🇰</string>
+	</dict>
+	<dict>
+		<key>U+1F1FE U+1F1EA</key>
+		<string>🇾🇪</string>
+	</dict>
+	<dict>
+		<key>U+1F1FE U+1F1F9</key>
+		<string>🇾🇹</string>
+	</dict>
+	<dict>
+		<key>U+1F1FF U+1F1E6</key>
+		<string>🇿🇦</string>
+	</dict>
+	<dict>
+		<key>U+1F1FF U+1F1F2</key>
+		<string>🇿🇲</string>
+	</dict>
+	<dict>
+		<key>U+1F1FF U+1F1FC</key>
+		<string>🇿🇼</string>
+	</dict>
+	<dict>
+		<key>U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F</key>
+		<string>🏴󠁧󠁢󠁥󠁮󠁧󠁿</string>
+	</dict>
+	<dict>
+		<key>U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F</key>
+		<string>🏴󠁧󠁢󠁳󠁣󠁴󠁿</string>
+	</dict>
+	<dict>
+		<key>U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F</key>
+		<string>🏴󠁧󠁢󠁷󠁬󠁳󠁿</string>
+	</dict>
+</array>
+</plist>
